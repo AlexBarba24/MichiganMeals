@@ -1,0 +1,1233 @@
+{
+  "scrape_metadata": {
+    "scrape_timestamp": "2025-10-22T23:55:37.499642",
+    "scrape_date": "2025-10-22",
+    "version": "1.0",
+    "dining_hall_id": "twigs-at-oxford",
+    "dining_hall_name": "Twigs at Oxford"
+  },
+  "meals": [
+    {
+      "meal_period": "breakfast",
+      "meal_period_display": "Breakfast",
+      "stations": [
+        {
+          "station_name": "HOT CEREAL",
+          "items": [
+            {
+              "item_name": "Oatmeal",
+              "allergens": [
+                "oats"
+              ],
+              "nutrition": {
+                "serving_size": "8 oz Cup (227g)",
+                "calories": 164,
+                "total_fat": "3g",
+                "saturated_fat": "1g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "3mg",
+                "total_carbohydrate": "29g",
+                "dietary_fiber": "4g",
+                "sugars": "0g",
+                "protein": "6g",
+                "vitamin_a": "0%",
+                "vitamin_c": "0%",
+                "calcium": "2%",
+                "iron": "10%"
+              }
+            }
+          ]
+        },
+        {
+          "station_name": "TOAST",
+          "items": [
+            {
+              "item_name": "Scrambled Eggs",
+              "allergens": [
+                "eggs",
+                "soy"
+              ],
+              "nutrition": {
+                "serving_size": "1/2 cup Serving (84g)",
+                "calories": 163,
+                "total_fat": "12g",
+                "saturated_fat": "4g",
+                "trans_fat": "0g",
+                "cholesterol": "336mg",
+                "sodium": "116mg",
+                "total_carbohydrate": "0g",
+                "dietary_fiber": "0g",
+                "sugars": "0g",
+                "protein": "11g",
+                "vitamin_a": "7%",
+                "vitamin_c": "0%",
+                "calcium": "6%",
+                "iron": "9%"
+              }
+            },
+            {
+              "item_name": "O'Brien Potatoes",
+              "allergens": [],
+              "nutrition": {
+                "serving_size": "1/2 Cup (105g)",
+                "calories": 85,
+                "total_fat": "2g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "180mg",
+                "total_carbohydrate": "15g",
+                "dietary_fiber": "2g",
+                "sugars": "0g",
+                "protein": "2g",
+                "vitamin_a": "0%",
+                "vitamin_c": "16%",
+                "calcium": "0%",
+                "iron": "1%"
+              }
+            },
+            {
+              "item_name": "Spinach Saute",
+              "allergens": [],
+              "nutrition": {
+                "serving_size": "1/2 Serving (43g)",
+                "calories": 23,
+                "total_fat": "2g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "86mg",
+                "total_carbohydrate": "1g",
+                "dietary_fiber": "1g",
+                "sugars": "0g",
+                "protein": "1g",
+                "vitamin_a": "74%",
+                "vitamin_c": "19%",
+                "calcium": "4%",
+                "iron": "6%"
+              }
+            },
+            {
+              "item_name": "Southwest Tofu Scramble",
+              "allergens": [
+                "soy"
+              ],
+              "nutrition": {
+                "serving_size": "1/2 cup (95g)",
+                "calories": 122,
+                "total_fat": "7g",
+                "saturated_fat": "1g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "379mg",
+                "total_carbohydrate": "4g",
+                "dietary_fiber": "2g",
+                "sugars": "1g",
+                "protein": "11g",
+                "vitamin_a": "27%",
+                "vitamin_c": "30%",
+                "calcium": "9%",
+                "iron": "10%"
+              }
+            },
+            {
+              "item_name": "Texas French Toast",
+              "allergens": [
+                "eggs",
+                "milk",
+                "sesame seed",
+                "soy",
+                "wheat/barley/rye"
+              ],
+              "nutrition": {
+                "serving_size": "1 Slices (78g)",
+                "calories": 148,
+                "total_fat": "7g",
+                "saturated_fat": "2g",
+                "trans_fat": "0g",
+                "cholesterol": "118mg",
+                "sodium": "208mg",
+                "total_carbohydrate": "16g",
+                "dietary_fiber": "1g",
+                "sugars": "2g",
+                "protein": "7g",
+                "vitamin_a": "3%",
+                "vitamin_c": "0%",
+                "calcium": "7%",
+                "iron": "6%"
+              }
+            },
+            {
+              "item_name": "Halal Chicken Sausage Links",
+              "allergens": [
+                "beef"
+              ],
+              "nutrition": {
+                "serving_size": "2 Links (72g)",
+                "calories": 120,
+                "total_fat": "7g",
+                "saturated_fat": "3g",
+                "trans_fat": "0g",
+                "cholesterol": "80mg",
+                "sodium": "630mg",
+                "total_carbohydrate": "1g",
+                "dietary_fiber": "0g",
+                "sugars": "1g",
+                "protein": "13g",
+                "vitamin_a": "%",
+                "vitamin_c": "%",
+                "calcium": "0%",
+                "iron": "2%"
+              }
+            },
+            {
+              "item_name": "Egg and Cheese Croissant",
+              "allergens": [
+                "eggs",
+                "milk",
+                "soy",
+                "wheat/barley/rye"
+              ],
+              "nutrition": {
+                "serving_size": "Sandwich (101g)",
+                "calories": 274,
+                "total_fat": "16g",
+                "saturated_fat": "8g",
+                "trans_fat": "0g",
+                "cholesterol": "227mg",
+                "sodium": "340mg",
+                "total_carbohydrate": "20g",
+                "dietary_fiber": "1g",
+                "sugars": "5g",
+                "protein": "11g",
+                "vitamin_a": "10%",
+                "vitamin_c": "0%",
+                "calcium": "8%",
+                "iron": "10%"
+              }
+            }
+          ]
+        },
+        {
+          "station_name": "MBAKERY",
+          "items": [
+            {
+              "item_name": "Blueberry Muffins",
+              "allergens": [
+                "eggs",
+                "wheat/barley/rye"
+              ],
+              "nutrition": {
+                "serving_size": "Muffin (54g)",
+                "calories": 164,
+                "total_fat": "7g",
+                "saturated_fat": "1g",
+                "trans_fat": "0g",
+                "cholesterol": "17mg",
+                "sodium": "138mg",
+                "total_carbohydrate": "23g",
+                "dietary_fiber": "1g",
+                "sugars": "13g",
+                "protein": "2g",
+                "vitamin_a": "0%",
+                "vitamin_c": "0%",
+                "calcium": "0%",
+                "iron": "3%"
+              }
+            },
+            {
+              "item_name": "Lemon Poppyseed Muffins",
+              "allergens": [
+                "eggs",
+                "milk",
+                "soy",
+                "wheat/barley/rye"
+              ],
+              "nutrition": {
+                "serving_size": "Muffin (77g)",
+                "calories": 261,
+                "total_fat": "12g",
+                "saturated_fat": "5g",
+                "trans_fat": "0g",
+                "cholesterol": "31mg",
+                "sodium": "266mg",
+                "total_carbohydrate": "37g",
+                "dietary_fiber": "1g",
+                "sugars": "19g",
+                "protein": "5g",
+                "vitamin_a": "2%",
+                "vitamin_c": "1%",
+                "calcium": "6%",
+                "iron": "8%"
+              }
+            },
+            {
+              "item_name": "Glazed Sour Cream Donut Holes",
+              "allergens": [
+                "eggs",
+                "milk",
+                "soy",
+                "wheat/barley/rye"
+              ],
+              "nutrition": {
+                "serving_size": "3 Donut Holes (22g)",
+                "calories": 95,
+                "total_fat": "5g",
+                "saturated_fat": "2g",
+                "trans_fat": "0g",
+                "cholesterol": "2mg",
+                "sodium": "86mg",
+                "total_carbohydrate": "12g",
+                "dietary_fiber": "1g",
+                "sugars": "6g",
+                "protein": "1g",
+                "vitamin_a": "0%",
+                "vitamin_c": "0%",
+                "calcium": "2%",
+                "iron": "2%"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "meal_period": "lunch",
+      "meal_period_display": "Lunch",
+      "stations": [
+        {
+          "station_name": "SOUP",
+          "items": [
+            {
+              "item_name": "Authentic Minestrone",
+              "allergens": [
+                "soy",
+                "wheat/barley/rye"
+              ],
+              "nutrition": {
+                "serving_size": "8 oz Cup (227g)",
+                "calories": 106,
+                "total_fat": "2g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "386mg",
+                "total_carbohydrate": "18g",
+                "dietary_fiber": "4g",
+                "sugars": "4g",
+                "protein": "5g",
+                "vitamin_a": "17%",
+                "vitamin_c": "22%",
+                "calcium": "4%",
+                "iron": "9%"
+              }
+            }
+          ]
+        },
+        {
+          "station_name": "SIGNATURE MAIZE",
+          "items": [
+            {
+              "item_name": "Sauteed Mixed Peppers",
+              "allergens": [],
+              "nutrition": {
+                "serving_size": "2 oz Serving (57g)",
+                "calories": 20,
+                "total_fat": "1g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "16mg",
+                "total_carbohydrate": "3g",
+                "dietary_fiber": "1g",
+                "sugars": "2g",
+                "protein": "1g",
+                "vitamin_a": "35%",
+                "vitamin_c": "119%",
+                "calcium": "0%",
+                "iron": "1%"
+              }
+            },
+            {
+              "item_name": "Italian Sausage on White Bun",
+              "allergens": [
+                "pork",
+                "sesame seed",
+                "soy",
+                "wheat/barley/rye"
+              ],
+              "nutrition": {
+                "serving_size": "Sandwich (128g)",
+                "calories": 375,
+                "total_fat": "22g",
+                "saturated_fat": "6g",
+                "trans_fat": "0g",
+                "cholesterol": "61mg",
+                "sodium": "1035mg",
+                "total_carbohydrate": "25g",
+                "dietary_fiber": "2g",
+                "sugars": "4g",
+                "protein": "21g",
+                "vitamin_a": "2%",
+                "vitamin_c": "6%",
+                "calcium": "6%",
+                "iron": "17%"
+              }
+            }
+          ]
+        },
+        {
+          "station_name": "HALAL",
+          "items": [
+            {
+              "item_name": "Yellow Rice",
+              "allergens": [],
+              "nutrition": null
+            },
+            {
+              "item_name": "Frijoles de la Olla",
+              "allergens": [],
+              "nutrition": {
+                "serving_size": "Serving (118g)",
+                "calories": 253,
+                "total_fat": "2g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "11mg",
+                "total_carbohydrate": "44g",
+                "dietary_fiber": "10g",
+                "sugars": "2g",
+                "protein": "16g",
+                "vitamin_a": "0%",
+                "vitamin_c": "2%",
+                "calcium": "12%",
+                "iron": "19%"
+              }
+            },
+            {
+              "item_name": "Vegan Chili Cornbread Pie",
+              "allergens": [],
+              "nutrition": null
+            },
+            {
+              "item_name": "Taco Lentils",
+              "allergens": [],
+              "nutrition": {
+                "serving_size": "1/4 Cup (62g)",
+                "calories": 51,
+                "total_fat": "1g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "73mg",
+                "total_carbohydrate": "10g",
+                "dietary_fiber": "3g",
+                "sugars": "1g",
+                "protein": "3g",
+                "vitamin_a": "3%",
+                "vitamin_c": "2%",
+                "calcium": "1%",
+                "iron": "7%"
+              }
+            },
+            {
+              "item_name": "Chipotle Lime Cauliflower Florets",
+              "allergens": [],
+              "nutrition": {
+                "serving_size": "Serving (85g)",
+                "calories": 79,
+                "total_fat": "7g",
+                "saturated_fat": "1g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "167mg",
+                "total_carbohydrate": "4g",
+                "dietary_fiber": "2g",
+                "sugars": "2g",
+                "protein": "2g",
+                "vitamin_a": "1%",
+                "vitamin_c": "58%",
+                "calcium": "2%",
+                "iron": "2%"
+              }
+            },
+            {
+              "item_name": "Taco Beef",
+              "allergens": [
+                "beef"
+              ],
+              "nutrition": {
+                "serving_size": "1/4 Cup (57g)",
+                "calories": 131,
+                "total_fat": "10g",
+                "saturated_fat": "4g",
+                "trans_fat": "1g",
+                "cholesterol": "35mg",
+                "sodium": "259mg",
+                "total_carbohydrate": "1g",
+                "dietary_fiber": "0g",
+                "sugars": "1g",
+                "protein": "9g",
+                "vitamin_a": "2%",
+                "vitamin_c": "2%",
+                "calcium": "1%",
+                "iron": "6%"
+              }
+            }
+          ]
+        },
+        {
+          "station_name": "WILD FIRE MAIZE",
+          "items": [
+            {
+              "item_name": "French Fries",
+              "allergens": [
+                "item is deep fried"
+              ],
+              "nutrition": {
+                "serving_size": "1/2 Cup (113g)",
+                "calories": 186,
+                "total_fat": "10g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "470mg",
+                "total_carbohydrate": "25g",
+                "dietary_fiber": "1g",
+                "sugars": "1g",
+                "protein": "1g",
+                "vitamin_a": "0%",
+                "vitamin_c": "0%",
+                "calcium": "1%",
+                "iron": "2%"
+              }
+            },
+            {
+              "item_name": "Black Bean Burger w/ White Bun",
+              "allergens": [
+                "eggs",
+                "milk",
+                "sesame seed",
+                "soy",
+                "wheat/barley/rye"
+              ],
+              "nutrition": {
+                "serving_size": "Sandwich (145g)",
+                "calories": 252,
+                "total_fat": "7g",
+                "saturated_fat": "1g",
+                "trans_fat": "0g",
+                "cholesterol": "6mg",
+                "sodium": "545mg",
+                "total_carbohydrate": "33g",
+                "dietary_fiber": "6g",
+                "sugars": "4g",
+                "protein": "19g",
+                "vitamin_a": "0%",
+                "vitamin_c": "0%",
+                "calcium": "9%",
+                "iron": "14%"
+              }
+            },
+            {
+              "item_name": "Beef & Mushroom Blend Burger w/ Cheddar",
+              "allergens": [
+                "beef",
+                "milk",
+                "sesame seed",
+                "soy",
+                "wheat/barley/rye"
+              ],
+              "nutrition": {
+                "serving_size": "Burger (154g)",
+                "calories": 364,
+                "total_fat": "20g",
+                "saturated_fat": "8g",
+                "trans_fat": "1g",
+                "cholesterol": "96mg",
+                "sodium": "381mg",
+                "total_carbohydrate": "16g",
+                "dietary_fiber": "0g",
+                "sugars": "2g",
+                "protein": "29g",
+                "vitamin_a": "0%",
+                "vitamin_c": "0%",
+                "calcium": "19%",
+                "iron": "19%"
+              }
+            },
+            {
+              "item_name": "Beef and Mushroom Blended Burger",
+              "allergens": [
+                "beef",
+                "sesame seed",
+                "soy",
+                "wheat/barley/rye"
+              ],
+              "nutrition": {
+                "serving_size": "Hamburger (120g)",
+                "calories": 277,
+                "total_fat": "13g",
+                "saturated_fat": "5g",
+                "trans_fat": "1g",
+                "cholesterol": "73mg",
+                "sodium": "247mg",
+                "total_carbohydrate": "15g",
+                "dietary_fiber": "0g",
+                "sugars": "2g",
+                "protein": "24g",
+                "vitamin_a": "0%",
+                "vitamin_c": "0%",
+                "calcium": "4%",
+                "iron": "18%"
+              }
+            },
+            {
+              "item_name": "Turkey Burger on White Bun",
+              "allergens": [
+                "sesame seed",
+                "soy",
+                "wheat/barley/rye"
+              ],
+              "nutrition": {
+                "serving_size": "Burger (165g)",
+                "calories": 261,
+                "total_fat": "10g",
+                "saturated_fat": "4g",
+                "trans_fat": "0g",
+                "cholesterol": "100mg",
+                "sodium": "722mg",
+                "total_carbohydrate": "15g",
+                "dietary_fiber": "0g",
+                "sugars": "2g",
+                "protein": "26g",
+                "vitamin_a": "0%",
+                "vitamin_c": "0%",
+                "calcium": "3%",
+                "iron": "6%"
+              }
+            }
+          ]
+        },
+        {
+          "station_name": "MBAKERY",
+          "items": [
+            {
+              "item_name": "Pistachio Cookie Bars",
+              "allergens": [
+                "eggs",
+                "milk",
+                "oats",
+                "tree nuts",
+                "wheat/barley/rye"
+              ],
+              "nutrition": {
+                "serving_size": "Bar (49g)",
+                "calories": 200,
+                "total_fat": "9g",
+                "saturated_fat": "4g",
+                "trans_fat": "0g",
+                "cholesterol": "32mg",
+                "sodium": "128mg",
+                "total_carbohydrate": "29g",
+                "dietary_fiber": "1g",
+                "sugars": "17g",
+                "protein": "3g",
+                "vitamin_a": "5%",
+                "vitamin_c": "0%",
+                "calcium": "6%",
+                "iron": "5%"
+              }
+            },
+            {
+              "item_name": "Cookies and Cream Brownie",
+              "allergens": [
+                "eggs",
+                "milk",
+                "soy",
+                "wheat/barley/rye"
+              ],
+              "nutrition": {
+                "serving_size": "Brownie (99g)",
+                "calories": 412,
+                "total_fat": "18g",
+                "saturated_fat": "10g",
+                "trans_fat": "1g",
+                "cholesterol": "75mg",
+                "sodium": "260mg",
+                "total_carbohydrate": "56g",
+                "dietary_fiber": "1g",
+                "sugars": "40g",
+                "protein": "6g",
+                "vitamin_a": "10%",
+                "vitamin_c": "0%",
+                "calcium": "5%",
+                "iron": "9%"
+              }
+            },
+            {
+              "item_name": "Blueberry Banana Cake with Coconut",
+              "allergens": [
+                "alcohol",
+                "coconut",
+                "oats",
+                "wheat/barley/rye"
+              ],
+              "nutrition": {
+                "serving_size": "Pieces (104g)",
+                "calories": 374,
+                "total_fat": "19g",
+                "saturated_fat": "8g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "400mg",
+                "total_carbohydrate": "51g",
+                "dietary_fiber": "1g",
+                "sugars": "33g",
+                "protein": "3g",
+                "vitamin_a": "0%",
+                "vitamin_c": "2%",
+                "calcium": "5%",
+                "iron": "6%"
+              }
+            },
+            {
+              "item_name": "Orange Creamsicle Rice Krispy Treats",
+              "allergens": [
+                "beef",
+                "milk",
+                "oats",
+                "pork",
+                "wheat/barley/rye"
+              ],
+              "nutrition": {
+                "serving_size": "piece (48g)",
+                "calories": 190,
+                "total_fat": "5g",
+                "saturated_fat": "3g",
+                "trans_fat": "0g",
+                "cholesterol": "14mg",
+                "sodium": "120mg",
+                "total_carbohydrate": "35g",
+                "dietary_fiber": "0g",
+                "sugars": "18g",
+                "protein": "1g",
+                "vitamin_a": "4%",
+                "vitamin_c": "4%",
+                "calcium": "0%",
+                "iron": "23%"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "meal_period": "dinner",
+      "meal_period_display": "Dinner",
+      "stations": [
+        {
+          "station_name": "SOUP",
+          "items": [
+            {
+              "item_name": "Authentic Minestrone",
+              "allergens": [
+                "soy",
+                "wheat/barley/rye"
+              ],
+              "nutrition": {
+                "serving_size": "8 oz Cup (227g)",
+                "calories": 106,
+                "total_fat": "2g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "386mg",
+                "total_carbohydrate": "18g",
+                "dietary_fiber": "4g",
+                "sugars": "4g",
+                "protein": "5g",
+                "vitamin_a": "17%",
+                "vitamin_c": "22%",
+                "calcium": "4%",
+                "iron": "9%"
+              }
+            }
+          ]
+        },
+        {
+          "station_name": "SIGNATURE MAIZE",
+          "items": [
+            {
+              "item_name": "Pea and Potato Curry",
+              "allergens": [],
+              "nutrition": {
+                "serving_size": "1/2 Cup (113g)",
+                "calories": 80,
+                "total_fat": "1g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "135mg",
+                "total_carbohydrate": "18g",
+                "dietary_fiber": "2g",
+                "sugars": "2g",
+                "protein": "3g",
+                "vitamin_a": "3%",
+                "vitamin_c": "16%",
+                "calcium": "1%",
+                "iron": "4%"
+              }
+            },
+            {
+              "item_name": "Rajma",
+              "allergens": [],
+              "nutrition": {
+                "serving_size": "1/2 Cup (113g)",
+                "calories": 119,
+                "total_fat": "5g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "302mg",
+                "total_carbohydrate": "14g",
+                "dietary_fiber": "3g",
+                "sugars": "2g",
+                "protein": "4g",
+                "vitamin_a": "5%",
+                "vitamin_c": "10%",
+                "calcium": "3%",
+                "iron": "10%"
+              }
+            },
+            {
+              "item_name": "Cilantro Chutney",
+              "allergens": [],
+              "nutrition": {
+                "serving_size": "1 oz serving (28g)",
+                "calories": 10,
+                "total_fat": "1g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "210mg",
+                "total_carbohydrate": "2g",
+                "dietary_fiber": "0g",
+                "sugars": "1g",
+                "protein": "0g",
+                "vitamin_a": "%",
+                "vitamin_c": "%",
+                "calcium": "1%",
+                "iron": "2%"
+              }
+            },
+            {
+              "item_name": "Spaetzle",
+              "allergens": [
+                "eggs",
+                "soy",
+                "wheat/barley/rye"
+              ],
+              "nutrition": {
+                "serving_size": "1/2 Cup (113g)",
+                "calories": 228,
+                "total_fat": "4g",
+                "saturated_fat": "1g",
+                "trans_fat": "0g",
+                "cholesterol": "51mg",
+                "sodium": "436mg",
+                "total_carbohydrate": "37g",
+                "dietary_fiber": "2g",
+                "sugars": "1g",
+                "protein": "9g",
+                "vitamin_a": "0%",
+                "vitamin_c": "0%",
+                "calcium": "0%",
+                "iron": "13%"
+              }
+            },
+            {
+              "item_name": "German Sauerkraut",
+              "allergens": [
+                "pork"
+              ],
+              "nutrition": {
+                "serving_size": "3 oz Serving (85g)",
+                "calories": 44,
+                "total_fat": "2g",
+                "saturated_fat": "1g",
+                "trans_fat": "0g",
+                "cholesterol": "6mg",
+                "sodium": "647mg",
+                "total_carbohydrate": "4g",
+                "dietary_fiber": "0g",
+                "sugars": "3g",
+                "protein": "2g",
+                "vitamin_a": "0%",
+                "vitamin_c": "1%",
+                "calcium": "3%",
+                "iron": "0%"
+              }
+            },
+            {
+              "item_name": "Beef Mushroom Gravy",
+              "allergens": [
+                "beef",
+                "soy",
+                "wheat/barley/rye"
+              ],
+              "nutrition": {
+                "serving_size": "1/4 Cup (57g)",
+                "calories": 31,
+                "total_fat": "2g",
+                "saturated_fat": "1g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "76mg",
+                "total_carbohydrate": "2g",
+                "dietary_fiber": "0g",
+                "sugars": "0g",
+                "protein": "1g",
+                "vitamin_a": "0%",
+                "vitamin_c": "1%",
+                "calcium": "0%",
+                "iron": "1%"
+              }
+            },
+            {
+              "item_name": "Breaded Pork Chops",
+              "allergens": [
+                "eggs",
+                "milk",
+                "pork",
+                "wheat/barley/rye"
+              ],
+              "nutrition": {
+                "serving_size": "4 oz Chop (113g)",
+                "calories": 199,
+                "total_fat": "8g",
+                "saturated_fat": "4g",
+                "trans_fat": "0g",
+                "cholesterol": "78mg",
+                "sodium": "1211mg",
+                "total_carbohydrate": "13g",
+                "dietary_fiber": "1g",
+                "sugars": "1g",
+                "protein": "20g",
+                "vitamin_a": "2%",
+                "vitamin_c": "1%",
+                "calcium": "3%",
+                "iron": "7%"
+              }
+            }
+          ]
+        },
+        {
+          "station_name": "HALAL",
+          "items": [
+            {
+              "item_name": "Basmati Rice",
+              "allergens": [],
+              "nutrition": {
+                "serving_size": "1/2 Cup (113g)",
+                "calories": 193,
+                "total_fat": "2g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "362mg",
+                "total_carbohydrate": "43g",
+                "dietary_fiber": "1g",
+                "sugars": "0g",
+                "protein": "4g",
+                "vitamin_a": "0%",
+                "vitamin_c": "0%",
+                "calcium": "0%",
+                "iron": "7%"
+              }
+            },
+            {
+              "item_name": "Roasted Broccoli",
+              "allergens": [],
+              "nutrition": {
+                "serving_size": "3 oz Serving (85g)",
+                "calories": 42,
+                "total_fat": "2g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "65mg",
+                "total_carbohydrate": "6g",
+                "dietary_fiber": "2g",
+                "sugars": "1g",
+                "protein": "2g",
+                "vitamin_a": "10%",
+                "vitamin_c": "124%",
+                "calcium": "4%",
+                "iron": "3%"
+              }
+            },
+            {
+              "item_name": "Sliced Red Onions",
+              "allergens": [],
+              "nutrition": {
+                "serving_size": "1 oz Serving (28g)",
+                "calories": 1,
+                "total_fat": "0g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "0mg",
+                "total_carbohydrate": "0g",
+                "dietary_fiber": "0g",
+                "sugars": "0g",
+                "protein": "0g",
+                "vitamin_a": "0%",
+                "vitamin_c": "0%",
+                "calcium": "0%",
+                "iron": "0%"
+              }
+            },
+            {
+              "item_name": "Cilantro",
+              "allergens": [],
+              "nutrition": {
+                "serving_size": "Tablespoon (14g)",
+                "calories": 3,
+                "total_fat": "0g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "7mg",
+                "total_carbohydrate": "1g",
+                "dietary_fiber": "0g",
+                "sugars": "0g",
+                "protein": "0g",
+                "vitamin_a": "19%",
+                "vitamin_c": "6%",
+                "calcium": "1%",
+                "iron": "1%"
+              }
+            },
+            {
+              "item_name": "Goan Prawn Coconut Curry",
+              "allergens": [
+                "coconut",
+                "shellfish"
+              ],
+              "nutrition": {
+                "serving_size": "4 oz Serving (113g)",
+                "calories": 47,
+                "total_fat": "2g",
+                "saturated_fat": "2g",
+                "trans_fat": "0g",
+                "cholesterol": "13mg",
+                "sodium": "147mg",
+                "total_carbohydrate": "5g",
+                "dietary_fiber": "1g",
+                "sugars": "3g",
+                "protein": "3g",
+                "vitamin_a": "0%",
+                "vitamin_c": "0%",
+                "calcium": "2%",
+                "iron": "4%"
+              }
+            }
+          ]
+        },
+        {
+          "station_name": "WILD FIRE MAIZE",
+          "items": [
+            {
+              "item_name": "French Fries",
+              "allergens": [
+                "item is deep fried"
+              ],
+              "nutrition": {
+                "serving_size": "1/2 Cup (113g)",
+                "calories": 186,
+                "total_fat": "10g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "470mg",
+                "total_carbohydrate": "25g",
+                "dietary_fiber": "1g",
+                "sugars": "1g",
+                "protein": "1g",
+                "vitamin_a": "0%",
+                "vitamin_c": "0%",
+                "calcium": "1%",
+                "iron": "2%"
+              }
+            },
+            {
+              "item_name": "Turkey Burger on White Bun",
+              "allergens": [
+                "sesame seed",
+                "soy",
+                "wheat/barley/rye"
+              ],
+              "nutrition": {
+                "serving_size": "Burger (165g)",
+                "calories": 261,
+                "total_fat": "10g",
+                "saturated_fat": "4g",
+                "trans_fat": "0g",
+                "cholesterol": "100mg",
+                "sodium": "722mg",
+                "total_carbohydrate": "15g",
+                "dietary_fiber": "0g",
+                "sugars": "2g",
+                "protein": "26g",
+                "vitamin_a": "0%",
+                "vitamin_c": "0%",
+                "calcium": "3%",
+                "iron": "6%"
+              }
+            },
+            {
+              "item_name": "Beef and Mushroom Blended Burger",
+              "allergens": [
+                "beef",
+                "sesame seed",
+                "soy",
+                "wheat/barley/rye"
+              ],
+              "nutrition": {
+                "serving_size": "Hamburger (120g)",
+                "calories": 277,
+                "total_fat": "13g",
+                "saturated_fat": "5g",
+                "trans_fat": "1g",
+                "cholesterol": "73mg",
+                "sodium": "247mg",
+                "total_carbohydrate": "15g",
+                "dietary_fiber": "0g",
+                "sugars": "2g",
+                "protein": "24g",
+                "vitamin_a": "0%",
+                "vitamin_c": "0%",
+                "calcium": "4%",
+                "iron": "18%"
+              }
+            },
+            {
+              "item_name": "Beef & Mushroom Blend Burger w/ Cheddar",
+              "allergens": [
+                "beef",
+                "milk",
+                "sesame seed",
+                "soy",
+                "wheat/barley/rye"
+              ],
+              "nutrition": {
+                "serving_size": "Burger (154g)",
+                "calories": 364,
+                "total_fat": "20g",
+                "saturated_fat": "8g",
+                "trans_fat": "1g",
+                "cholesterol": "96mg",
+                "sodium": "381mg",
+                "total_carbohydrate": "16g",
+                "dietary_fiber": "0g",
+                "sugars": "2g",
+                "protein": "29g",
+                "vitamin_a": "0%",
+                "vitamin_c": "0%",
+                "calcium": "19%",
+                "iron": "19%"
+              }
+            },
+            {
+              "item_name": "Black Bean Burger w/ White Bun",
+              "allergens": [
+                "eggs",
+                "milk",
+                "sesame seed",
+                "soy",
+                "wheat/barley/rye"
+              ],
+              "nutrition": {
+                "serving_size": "Sandwich (145g)",
+                "calories": 252,
+                "total_fat": "7g",
+                "saturated_fat": "1g",
+                "trans_fat": "0g",
+                "cholesterol": "6mg",
+                "sodium": "545mg",
+                "total_carbohydrate": "33g",
+                "dietary_fiber": "6g",
+                "sugars": "4g",
+                "protein": "19g",
+                "vitamin_a": "0%",
+                "vitamin_c": "0%",
+                "calcium": "9%",
+                "iron": "14%"
+              }
+            }
+          ]
+        },
+        {
+          "station_name": "MBAKERY",
+          "items": [
+            {
+              "item_name": "Blueberry Banana Cake with Coconut",
+              "allergens": [
+                "alcohol",
+                "coconut",
+                "oats",
+                "wheat/barley/rye"
+              ],
+              "nutrition": {
+                "serving_size": "Pieces (104g)",
+                "calories": 374,
+                "total_fat": "19g",
+                "saturated_fat": "8g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "400mg",
+                "total_carbohydrate": "51g",
+                "dietary_fiber": "1g",
+                "sugars": "33g",
+                "protein": "3g",
+                "vitamin_a": "0%",
+                "vitamin_c": "2%",
+                "calcium": "5%",
+                "iron": "6%"
+              }
+            },
+            {
+              "item_name": "Chocolate Peanut Butter Pie",
+              "allergens": [
+                "milk",
+                "peanuts",
+                "soy",
+                "wheat/barley/rye"
+              ],
+              "nutrition": {
+                "serving_size": "Slice (149g)",
+                "calories": 657,
+                "total_fat": "47g",
+                "saturated_fat": "22g",
+                "trans_fat": "0g",
+                "cholesterol": "85mg",
+                "sodium": "364mg",
+                "total_carbohydrate": "51g",
+                "dietary_fiber": "3g",
+                "sugars": "39g",
+                "protein": "11g",
+                "vitamin_a": "1%",
+                "vitamin_c": "0%",
+                "calcium": "4%",
+                "iron": "6%"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

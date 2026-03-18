@@ -1,0 +1,289 @@
+2025-10-22 23:30:49,745 - dining_scraper_bursley - INFO - ================================================================================
+2025-10-22 23:30:49,745 - dining_scraper_bursley - INFO - Starting scrape for Bursley
+2025-10-22 23:30:49,745 - dining_scraper_bursley - INFO - ================================================================================
+2025-10-22 23:30:49,745 - dining_scraper_bursley - INFO - Navigating to Bursley: https://dining.umich.edu/menus-locations/dining-halls/bursley/
+2025-10-22 23:30:51,921 - dining_scraper_bursley - INFO - Found 3 meal periods
+2025-10-22 23:30:51,936 - dining_scraper_bursley - INFO - Scraping meal period: Breakfast
+2025-10-22 23:30:52,558 - dining_scraper_bursley - INFO - Found 3 stations in meal period
+2025-10-22 23:30:52,569 - dining_scraper_bursley - INFO -  Scraping station: HOT CEREAL
+2025-10-22 23:30:52,576 - dining_scraper_bursley - INFO -   Found 2 items in station
+2025-10-22 23:30:52,586 - dining_scraper_bursley - DEBUG -   Processing item: Oatmeal
+2025-10-22 23:30:53,653 - dining_scraper_bursley - DEBUG -   Processing item: Brown Sugar
+2025-10-22 23:30:54,719 - dining_scraper_bursley - INFO -   Successfully scraped 2 items from station: HOT CEREAL
+2025-10-22 23:30:54,732 - dining_scraper_bursley - INFO -  Scraping station: TOAST
+2025-10-22 23:30:54,736 - dining_scraper_bursley - INFO -   Found 9 items in station
+2025-10-22 23:30:54,748 - dining_scraper_bursley - DEBUG -   Processing item: O'Brien Potatoes
+2025-10-22 23:30:55,827 - dining_scraper_bursley - DEBUG -   Processing item: Pork Sausage Links
+2025-10-22 23:30:56,920 - dining_scraper_bursley - DEBUG -   Processing item: Scrambled Eggs
+2025-10-22 23:30:58,009 - dining_scraper_bursley - DEBUG -   Processing item: Texas French Toast
+2025-10-22 23:30:59,117 - dining_scraper_bursley - DEBUG -   Processing item: Banana's Foster
+2025-10-22 23:31:00,181 - dining_scraper_bursley - DEBUG -   Processing item: Southwest Tofu Scramble
+2025-10-22 23:31:01,270 - dining_scraper_bursley - DEBUG -   Processing item: Spinach Saute
+2025-10-22 23:31:02,381 - dining_scraper_bursley - DEBUG -   Processing item: Wild Mushroom & Herb Frittata
+2025-10-22 23:31:03,499 - dining_scraper_bursley - DEBUG -   Processing item: Southwest Breakfast Hash
+2025-10-22 23:31:04,581 - dining_scraper_bursley - INFO -   Successfully scraped 9 items from station: TOAST
+2025-10-22 23:31:04,594 - dining_scraper_bursley - INFO -  Scraping station: MBAKERY
+2025-10-22 23:31:04,601 - dining_scraper_bursley - INFO -   Found 3 items in station
+2025-10-22 23:31:04,610 - dining_scraper_bursley - DEBUG -   Processing item: Cranberry Orange Muffins
+2025-10-22 23:31:05,714 - dining_scraper_bursley - DEBUG -   Processing item: Chocolate Chocolate Chip Muffins
+2025-10-22 23:31:06,849 - dining_scraper_bursley - DEBUG -   Processing item: Cinnamon Sugar Donuts
+2025-10-22 23:31:07,971 - dining_scraper_bursley - INFO -   Successfully scraped 3 items from station: MBAKERY
+2025-10-22 23:31:07,971 - dining_scraper_bursley - INFO - Successfully scraped 3 stations from: Breakfast
+2025-10-22 23:31:07,986 - dining_scraper_bursley - INFO - Scraping meal period: Lunch
+2025-10-22 23:31:17,075 - dining_scraper_bursley - INFO - ================================================================================
+2025-10-22 23:31:17,075 - dining_scraper_bursley - INFO - Starting scrape for Bursley
+2025-10-22 23:31:17,075 - dining_scraper_bursley - INFO - ================================================================================
+2025-10-22 23:31:17,075 - dining_scraper_bursley - INFO - Navigating to Bursley: https://dining.umich.edu/menus-locations/dining-halls/bursley/
+2025-10-22 23:31:18,996 - dining_scraper_bursley - INFO - Found 3 meal periods
+2025-10-22 23:31:19,009 - dining_scraper_bursley - INFO - Scraping meal period: Breakfast
+2025-10-22 23:31:19,623 - dining_scraper_bursley - INFO - Found 3 stations in meal period
+2025-10-22 23:31:19,633 - dining_scraper_bursley - INFO -  Scraping station: HOT CEREAL
+2025-10-22 23:31:19,638 - dining_scraper_bursley - INFO -   Found 2 items in station
+2025-10-22 23:31:19,648 - dining_scraper_bursley - DEBUG -   Processing item: Oatmeal
+2025-10-22 23:31:20,745 - dining_scraper_bursley - DEBUG -   Processing item: Brown Sugar
+2025-10-22 23:31:21,833 - dining_scraper_bursley - INFO -   Successfully scraped 2 items from station: HOT CEREAL
+2025-10-22 23:31:21,847 - dining_scraper_bursley - INFO -  Scraping station: TOAST
+2025-10-22 23:31:21,852 - dining_scraper_bursley - INFO -   Found 9 items in station
+2025-10-22 23:31:21,862 - dining_scraper_bursley - DEBUG -   Processing item: O'Brien Potatoes
+2025-10-22 23:31:22,975 - dining_scraper_bursley - DEBUG -   Processing item: Pork Sausage Links
+2025-10-22 23:31:24,068 - dining_scraper_bursley - DEBUG -   Processing item: Scrambled Eggs
+2025-10-22 23:31:25,181 - dining_scraper_bursley - DEBUG -   Processing item: Texas French Toast
+2025-10-22 23:31:26,308 - dining_scraper_bursley - DEBUG -   Processing item: Banana's Foster
+2025-10-22 23:31:27,390 - dining_scraper_bursley - DEBUG -   Processing item: Southwest Tofu Scramble
+2025-10-22 23:31:28,498 - dining_scraper_bursley - DEBUG -   Processing item: Spinach Saute
+2025-10-22 23:31:38,771 - dining_scraper_bursley - INFO - ================================================================================
+2025-10-22 23:31:38,771 - dining_scraper_bursley - INFO - Starting scrape for Bursley
+2025-10-22 23:31:38,771 - dining_scraper_bursley - INFO - ================================================================================
+2025-10-22 23:31:38,771 - dining_scraper_bursley - INFO - Navigating to Bursley: https://dining.umich.edu/menus-locations/dining-halls/bursley/
+2025-10-22 23:31:40,794 - dining_scraper_bursley - INFO - Found 3 meal periods
+2025-10-22 23:31:40,808 - dining_scraper_bursley - INFO - Scraping meal period: Breakfast
+2025-10-22 23:31:41,378 - dining_scraper_bursley - INFO - Found 3 stations in meal period
+2025-10-22 23:31:41,389 - dining_scraper_bursley - INFO -  Scraping station: HOT CEREAL
+2025-10-22 23:31:41,396 - dining_scraper_bursley - INFO -   Found 2 items in station
+2025-10-22 23:31:41,406 - dining_scraper_bursley - DEBUG -   Processing item: Oatmeal
+2025-10-22 23:31:42,499 - dining_scraper_bursley - DEBUG -   Processing item: Brown Sugar
+2025-10-22 23:31:43,583 - dining_scraper_bursley - INFO -   Successfully scraped 2 items from station: HOT CEREAL
+2025-10-22 23:31:43,596 - dining_scraper_bursley - INFO -  Scraping station: TOAST
+2025-10-22 23:31:43,600 - dining_scraper_bursley - INFO -   Found 9 items in station
+2025-10-22 23:31:43,607 - dining_scraper_bursley - DEBUG -   Processing item: O'Brien Potatoes
+2025-10-22 23:31:44,686 - dining_scraper_bursley - DEBUG -   Processing item: Pork Sausage Links
+2025-10-22 23:31:45,778 - dining_scraper_bursley - DEBUG -   Processing item: Scrambled Eggs
+2025-10-22 23:31:46,871 - dining_scraper_bursley - DEBUG -   Processing item: Texas French Toast
+2025-10-22 23:31:47,985 - dining_scraper_bursley - DEBUG -   Processing item: Banana's Foster
+2025-10-22 23:31:49,073 - dining_scraper_bursley - DEBUG -   Processing item: Southwest Tofu Scramble
+2025-10-22 23:31:50,160 - dining_scraper_bursley - DEBUG -   Processing item: Spinach Saute
+2025-10-22 23:31:51,203 - dining_scraper_bursley - DEBUG -   Processing item: Wild Mushroom & Herb Frittata
+2025-10-22 23:31:52,300 - dining_scraper_bursley - DEBUG -   Processing item: Southwest Breakfast Hash
+2025-10-22 23:31:53,375 - dining_scraper_bursley - INFO -   Successfully scraped 9 items from station: TOAST
+2025-10-22 23:31:53,386 - dining_scraper_bursley - INFO -  Scraping station: MBAKERY
+2025-10-22 23:31:53,394 - dining_scraper_bursley - INFO -   Found 3 items in station
+2025-10-22 23:31:53,403 - dining_scraper_bursley - DEBUG -   Processing item: Cranberry Orange Muffins
+2025-10-22 23:31:54,522 - dining_scraper_bursley - DEBUG -   Processing item: Chocolate Chocolate Chip Muffins
+2025-10-22 23:31:55,637 - dining_scraper_bursley - DEBUG -   Processing item: Cinnamon Sugar Donuts
+2025-10-22 23:31:56,756 - dining_scraper_bursley - INFO -   Successfully scraped 3 items from station: MBAKERY
+2025-10-22 23:31:56,756 - dining_scraper_bursley - INFO - Successfully scraped 3 stations from: Breakfast
+2025-10-22 23:31:56,766 - dining_scraper_bursley - INFO - Scraping meal period: Lunch
+2025-10-22 23:32:07,706 - dining_scraper_bursley - ERROR - Courses div did not appear for: Lunch
+2025-10-22 23:32:07,717 - dining_scraper_bursley - INFO - Scraping meal period: Dinner
+2025-10-22 23:32:18,509 - dining_scraper_bursley - ERROR - Courses div did not appear for: Dinner
+2025-10-22 23:32:18,510 - dining_scraper_bursley - INFO - Successfully scraped 1 meal periods from Bursley
+2025-10-22 23:32:18,514 - dining_scraper_bursley - INFO - Saved menu to: /Users/alex/Documents/xcode/MichiganMealsAppFinal/MichiganMealsAppFinal/scraped_data/json/2025-10-22/bursley.json
+2025-10-22 23:41:04,989 - dining_scraper_bursley - INFO - ================================================================================
+2025-10-22 23:41:04,990 - dining_scraper_bursley - INFO - Starting scrape for Bursley
+2025-10-22 23:41:04,990 - dining_scraper_bursley - INFO - ================================================================================
+2025-10-22 23:41:04,990 - dining_scraper_bursley - INFO - Navigating to Bursley: https://dining.umich.edu/menus-locations/dining-halls/bursley/
+2025-10-22 23:41:06,916 - dining_scraper_bursley - INFO - Found 3 meal periods
+2025-10-22 23:41:06,933 - dining_scraper_bursley - INFO - Scraping meal period: Breakfast
+2025-10-22 23:41:07,498 - dining_scraper_bursley - INFO - Found 3 stations in meal period
+2025-10-22 23:41:07,509 - dining_scraper_bursley - INFO -  Scraping station: HOT CEREAL
+2025-10-22 23:41:07,515 - dining_scraper_bursley - INFO -   Found 2 items in station
+2025-10-22 23:41:07,525 - dining_scraper_bursley - DEBUG -   Processing item: Oatmeal
+2025-10-22 23:41:08,645 - dining_scraper_bursley - DEBUG -   Processing item: Brown Sugar
+2025-10-22 23:41:09,726 - dining_scraper_bursley - INFO -   Successfully scraped 2 items from station: HOT CEREAL
+2025-10-22 23:41:09,738 - dining_scraper_bursley - INFO -  Scraping station: TOAST
+2025-10-22 23:41:09,742 - dining_scraper_bursley - INFO -   Found 9 items in station
+2025-10-22 23:41:09,749 - dining_scraper_bursley - DEBUG -   Processing item: O'Brien Potatoes
+2025-10-22 23:41:10,831 - dining_scraper_bursley - DEBUG -   Processing item: Pork Sausage Links
+2025-10-22 23:41:11,942 - dining_scraper_bursley - DEBUG -   Processing item: Scrambled Eggs
+2025-10-22 23:41:13,036 - dining_scraper_bursley - DEBUG -   Processing item: Texas French Toast
+2025-10-22 23:41:14,153 - dining_scraper_bursley - DEBUG -   Processing item: Banana's Foster
+2025-10-22 23:41:15,236 - dining_scraper_bursley - DEBUG -   Processing item: Southwest Tofu Scramble
+2025-10-22 23:41:16,310 - dining_scraper_bursley - DEBUG -   Processing item: Spinach Saute
+2025-10-22 23:41:17,405 - dining_scraper_bursley - DEBUG -   Processing item: Wild Mushroom & Herb Frittata
+2025-10-22 23:41:18,472 - dining_scraper_bursley - DEBUG -   Processing item: Southwest Breakfast Hash
+2025-10-22 23:41:29,389 - dining_scraper_bursley - WARNING - Nutrition panel did not appear for: Southwest Breakfast Hash
+2025-10-22 23:41:29,391 - dining_scraper_bursley - INFO -   Successfully scraped 9 items from station: TOAST
+2025-10-22 23:41:29,417 - dining_scraper_bursley - INFO -  Scraping station: MBAKERY
+2025-10-22 23:41:29,425 - dining_scraper_bursley - INFO -   Found 3 items in station
+2025-10-22 23:41:29,438 - dining_scraper_bursley - DEBUG -   Processing item: Cranberry Orange Muffins
+2025-10-22 23:41:30,722 - dining_scraper_bursley - DEBUG -   Processing item: Chocolate Chocolate Chip Muffins
+2025-10-22 23:41:32,050 - dining_scraper_bursley - DEBUG -   Processing item: Cinnamon Sugar Donuts
+2025-10-22 23:41:33,364 - dining_scraper_bursley - INFO -   Successfully scraped 3 items from station: MBAKERY
+2025-10-22 23:41:33,365 - dining_scraper_bursley - INFO - Successfully scraped 3 stations from: Breakfast
+2025-10-22 23:41:33,397 - dining_scraper_bursley - INFO - Scraping meal period: Lunch
+2025-10-22 23:41:44,473 - dining_scraper_bursley - ERROR - Courses div did not appear for: Lunch
+2025-10-22 23:41:44,505 - dining_scraper_bursley - INFO - Scraping meal period: Dinner
+2025-10-22 23:42:58,882 - dining_scraper_bursley - INFO - ================================================================================
+2025-10-22 23:42:58,882 - dining_scraper_bursley - INFO - Starting scrape for Bursley
+2025-10-22 23:42:58,882 - dining_scraper_bursley - INFO - ================================================================================
+2025-10-22 23:42:58,882 - dining_scraper_bursley - INFO - Navigating to Bursley: https://dining.umich.edu/menus-locations/dining-halls/bursley/
+2025-10-22 23:43:00,847 - dining_scraper_bursley - INFO - Found 3 meal periods
+2025-10-22 23:43:00,863 - dining_scraper_bursley - INFO - Scraping meal period: Breakfast
+2025-10-22 23:43:01,420 - dining_scraper_bursley - INFO - Found 3 stations in meal period
+2025-10-22 23:43:01,431 - dining_scraper_bursley - INFO -  Scraping station: HOT CEREAL
+2025-10-22 23:43:01,437 - dining_scraper_bursley - INFO -   Found 2 items in station
+2025-10-22 23:43:01,446 - dining_scraper_bursley - DEBUG -   Processing item: Oatmeal
+2025-10-22 23:43:02,594 - dining_scraper_bursley - DEBUG -   Processing item: Brown Sugar
+2025-10-22 23:43:03,653 - dining_scraper_bursley - INFO -   Successfully scraped 2 items from station: HOT CEREAL
+2025-10-22 23:43:03,662 - dining_scraper_bursley - INFO -  Scraping station: TOAST
+2025-10-22 23:43:03,665 - dining_scraper_bursley - INFO -   Found 9 items in station
+2025-10-22 23:43:03,672 - dining_scraper_bursley - DEBUG -   Processing item: O'Brien Potatoes
+2025-10-22 23:43:04,798 - dining_scraper_bursley - DEBUG -   Processing item: Pork Sausage Links
+2025-10-22 23:43:05,885 - dining_scraper_bursley - DEBUG -   Processing item: Scrambled Eggs
+2025-10-22 23:43:06,965 - dining_scraper_bursley - DEBUG -   Processing item: Texas French Toast
+2025-10-22 23:43:08,084 - dining_scraper_bursley - DEBUG -   Processing item: Banana's Foster
+2025-10-22 23:43:09,176 - dining_scraper_bursley - DEBUG -   Processing item: Southwest Tofu Scramble
+2025-10-22 23:43:10,261 - dining_scraper_bursley - DEBUG -   Processing item: Spinach Saute
+2025-10-22 23:43:11,460 - dining_scraper_bursley - DEBUG -   Processing item: Wild Mushroom & Herb Frittata
+2025-10-22 23:43:12,549 - dining_scraper_bursley - DEBUG -   Processing item: Southwest Breakfast Hash
+2025-10-22 23:43:13,658 - dining_scraper_bursley - INFO -   Successfully scraped 9 items from station: TOAST
+2025-10-22 23:43:13,668 - dining_scraper_bursley - INFO -  Scraping station: MBAKERY
+2025-10-22 23:43:13,674 - dining_scraper_bursley - INFO -   Found 3 items in station
+2025-10-22 23:43:13,684 - dining_scraper_bursley - DEBUG -   Processing item: Cranberry Orange Muffins
+2025-10-22 23:43:14,766 - dining_scraper_bursley - DEBUG -   Processing item: Chocolate Chocolate Chip Muffins
+2025-10-22 23:43:15,870 - dining_scraper_bursley - DEBUG -   Processing item: Cinnamon Sugar Donuts
+2025-10-22 23:43:16,971 - dining_scraper_bursley - INFO -   Successfully scraped 3 items from station: MBAKERY
+2025-10-22 23:43:16,971 - dining_scraper_bursley - INFO - Successfully scraped 3 stations from: Breakfast
+2025-10-22 23:43:16,984 - dining_scraper_bursley - INFO - Scraping meal period: Lunch
+2025-10-22 23:43:17,536 - dining_scraper_bursley - INFO - Found 10 stations in meal period
+2025-10-22 23:43:17,544 - dining_scraper_bursley - INFO -  Scraping station: SOUP
+2025-10-22 23:43:17,547 - dining_scraper_bursley - INFO -   Found 1 items in station
+2025-10-22 23:43:17,554 - dining_scraper_bursley - DEBUG -   Processing item: Italian Wedding Soup
+2025-10-22 23:43:18,613 - dining_scraper_bursley - INFO -   Successfully scraped 1 items from station: SOUP
+2025-10-22 23:43:18,621 - dining_scraper_bursley - INFO -  Scraping station: SIGNATURE MAIZE
+2025-10-22 23:43:18,625 - dining_scraper_bursley - INFO -   Found 3 items in station
+2025-10-22 23:43:18,632 - dining_scraper_bursley - DEBUG -   Processing item: Tempura Chicken
+2025-10-22 23:43:19,752 - dining_scraper_bursley - DEBUG -   Processing item: Buffalo Sauce
+2025-10-22 23:43:20,878 - dining_scraper_bursley - DEBUG -   Processing item: Macaroni Salad
+2025-10-22 23:43:22,031 - dining_scraper_bursley - INFO -   Successfully scraped 3 items from station: SIGNATURE MAIZE
+2025-10-22 23:43:22,039 - dining_scraper_bursley - INFO -  Scraping station: SIGNATURE BLUE
+2025-10-22 23:43:22,043 - dining_scraper_bursley - INFO -   Found 2 items in station
+2025-10-22 23:43:22,050 - dining_scraper_bursley - DEBUG -   Processing item: Fried Cauliflower Buffalo Bites
+2025-10-22 23:43:23,167 - dining_scraper_bursley - DEBUG -   Processing item: Macaroni Salad
+2025-10-22 23:43:24,248 - dining_scraper_bursley - INFO -   Successfully scraped 2 items from station: SIGNATURE BLUE
+2025-10-22 23:43:24,260 - dining_scraper_bursley - INFO -  Scraping station: 24 CARROTS
+2025-10-22 23:43:24,265 - dining_scraper_bursley - INFO -   Found 3 items in station
+2025-10-22 23:43:24,272 - dining_scraper_bursley - DEBUG -   Processing item: Vegan Chili Cornbread Pie
+2025-10-22 23:43:35,028 - dining_scraper_bursley - WARNING - Nutrition panel did not appear for: Vegan Chili Cornbread Pie
+2025-10-22 23:43:35,047 - dining_scraper_bursley - DEBUG -   Processing item: Pickled Jalapeno Peppers
+2025-10-22 23:43:45,819 - dining_scraper_bursley - WARNING - Nutrition panel did not appear for: Pickled Jalapeno Peppers
+2025-10-22 23:43:45,829 - dining_scraper_bursley - DEBUG -   Processing item: Sliced Tomatoes
+2025-10-22 23:43:46,903 - dining_scraper_bursley - INFO -   Successfully scraped 3 items from station: 24 CARROTS
+2025-10-22 23:43:46,916 - dining_scraper_bursley - INFO -  Scraping station: HALAL
+2025-10-22 23:43:46,920 - dining_scraper_bursley - INFO -   Found 5 items in station
+2025-10-22 23:43:46,930 - dining_scraper_bursley - DEBUG -   Processing item: Turkey Tacos
+2025-10-22 23:43:48,024 - dining_scraper_bursley - DEBUG -   Processing item: Chipotle Lime Cauliflower Florets
+2025-10-22 23:43:49,115 - dining_scraper_bursley - DEBUG -   Processing item: Yellow Rice
+2025-10-22 23:43:50,192 - dining_scraper_bursley - DEBUG -   Processing item: Fresh Pico De Gallo
+2025-10-22 23:43:51,271 - dining_scraper_bursley - DEBUG -   Processing item: Tortilla Chips
+2025-10-22 23:43:52,370 - dining_scraper_bursley - INFO -   Successfully scraped 5 items from station: HALAL
+2025-10-22 23:43:52,379 - dining_scraper_bursley - INFO -  Scraping station: PIZZITI
+2025-10-22 23:43:52,383 - dining_scraper_bursley - INFO -   Found 4 items in station
+2025-10-22 23:43:52,391 - dining_scraper_bursley - DEBUG -   Processing item: Chicken Ranch Pizza with Bacon
+2025-10-22 23:43:53,539 - dining_scraper_bursley - DEBUG -   Processing item: Garlic Cheese Bread
+2025-10-22 23:43:54,620 - dining_scraper_bursley - DEBUG -   Processing item: Pepperoni Pizza
+2025-10-22 23:43:55,756 - dining_scraper_bursley - DEBUG -   Processing item: Cheese Pizza
+2025-10-22 23:43:56,878 - dining_scraper_bursley - INFO -   Successfully scraped 4 items from station: PIZZITI
+2025-10-22 23:43:56,891 - dining_scraper_bursley - INFO -  Scraping station: WILD FIRE MAIZE
+2025-10-22 23:43:56,895 - dining_scraper_bursley - INFO -   Found 3 items in station
+2025-10-22 23:43:56,903 - dining_scraper_bursley - DEBUG -   Processing item: Corn Dogs
+2025-10-22 23:43:58,033 - dining_scraper_bursley - DEBUG -   Processing item: Honey Mustard
+2025-10-22 23:43:59,136 - dining_scraper_bursley - DEBUG -   Processing item: Seasoned Fries
+2025-10-22 23:44:00,189 - dining_scraper_bursley - INFO -   Successfully scraped 3 items from station: WILD FIRE MAIZE
+2025-10-22 23:44:00,197 - dining_scraper_bursley - INFO -  Scraping station: TWO OCEANS
+2025-10-22 23:44:00,200 - dining_scraper_bursley - INFO -   Found 3 items in station
+2025-10-22 23:44:00,207 - dining_scraper_bursley - DEBUG -   Processing item: Stir Fried Beef
+2025-10-22 23:44:01,291 - dining_scraper_bursley - DEBUG -   Processing item: Medium Grain Rice
+2025-10-22 23:44:02,373 - dining_scraper_bursley - DEBUG -   Processing item: Sweet and Spicy Plum Sauce
+2025-10-22 23:44:03,436 - dining_scraper_bursley - INFO -   Successfully scraped 3 items from station: TWO OCEANS
+2025-10-22 23:44:03,445 - dining_scraper_bursley - INFO -  Scraping station: DELI
+2025-10-22 23:44:03,450 - dining_scraper_bursley - INFO -   Found 1 items in station
+2025-10-22 23:44:03,459 - dining_scraper_bursley - DEBUG -   Processing item: Sandwiches Made to Order
+2025-10-22 23:44:04,020 - dining_scraper_bursley - WARNING - No nutrition table found for: Sandwiches Made to Order
+2025-10-22 23:44:04,355 - dining_scraper_bursley - INFO -   Successfully scraped 1 items from station: DELI
+2025-10-22 23:44:04,364 - dining_scraper_bursley - INFO -  Scraping station: MBAKERY
+2025-10-22 23:44:04,373 - dining_scraper_bursley - INFO -   Found 5 items in station
+2025-10-22 23:44:04,380 - dining_scraper_bursley - DEBUG -   Processing item: Blueberry Banana Cake with Coconut
+2025-10-22 23:44:05,479 - dining_scraper_bursley - DEBUG -   Processing item: Chocolate Peanut Butter Pie
+2025-10-22 23:44:06,551 - dining_scraper_bursley - DEBUG -   Processing item: Orange Creamsicle Rice Krispy Treats
+2025-10-22 23:44:07,651 - dining_scraper_bursley - DEBUG -   Processing item: Maize and Blue Cookies
+2025-10-22 23:44:08,773 - dining_scraper_bursley - DEBUG -   Processing item: Chocolate Chunk Cookies
+2025-10-22 23:44:09,894 - dining_scraper_bursley - INFO -   Successfully scraped 5 items from station: MBAKERY
+2025-10-22 23:44:09,894 - dining_scraper_bursley - INFO - Successfully scraped 10 stations from: Lunch
+2025-10-22 23:44:09,905 - dining_scraper_bursley - INFO - Scraping meal period: Dinner
+2025-10-22 23:44:10,464 - dining_scraper_bursley - INFO - Found 10 stations in meal period
+2025-10-22 23:44:10,471 - dining_scraper_bursley - INFO -  Scraping station: SOUP
+2025-10-22 23:44:10,475 - dining_scraper_bursley - INFO -   Found 1 items in station
+2025-10-22 23:44:10,481 - dining_scraper_bursley - DEBUG -   Processing item: Italian Wedding Soup
+2025-10-22 23:44:11,599 - dining_scraper_bursley - INFO -   Successfully scraped 1 items from station: SOUP
+2025-10-22 23:44:11,614 - dining_scraper_bursley - INFO -  Scraping station: SIGNATURE MAIZE
+2025-10-22 23:44:11,617 - dining_scraper_bursley - INFO -   Found 4 items in station
+2025-10-22 23:44:11,624 - dining_scraper_bursley - DEBUG -   Processing item: Breaded Pork Chops
+2025-10-22 23:44:12,698 - dining_scraper_bursley - DEBUG -   Processing item: German Sauerkraut
+2025-10-22 23:44:13,804 - dining_scraper_bursley - DEBUG -   Processing item: Spaetzle
+2025-10-22 23:44:14,904 - dining_scraper_bursley - DEBUG -   Processing item: Mushroom Gravy
+2025-10-22 23:44:25,666 - dining_scraper_bursley - WARNING - Nutrition panel did not appear for: Mushroom Gravy
+2025-10-22 23:44:25,666 - dining_scraper_bursley - INFO -   Successfully scraped 4 items from station: SIGNATURE MAIZE
+2025-10-22 23:44:25,675 - dining_scraper_bursley - INFO -  Scraping station: SIGNATURE BLUE
+2025-10-22 23:44:25,679 - dining_scraper_bursley - INFO -   Found 4 items in station
+2025-10-22 23:44:25,687 - dining_scraper_bursley - DEBUG -   Processing item: Pub Fried Tofu
+2025-10-22 23:44:26,808 - dining_scraper_bursley - DEBUG -   Processing item: German Sauerkraut
+2025-10-22 23:44:27,968 - dining_scraper_bursley - DEBUG -   Processing item: Spaetzle
+2025-10-22 23:44:29,046 - dining_scraper_bursley - DEBUG -   Processing item: Mushroom Gravy
+2025-10-22 23:44:30,132 - dining_scraper_bursley - INFO -   Successfully scraped 4 items from station: SIGNATURE BLUE
+2025-10-22 23:44:30,140 - dining_scraper_bursley - INFO -  Scraping station: 24 CARROTS
+2025-10-22 23:44:30,144 - dining_scraper_bursley - INFO -   Found 4 items in station
+2025-10-22 23:44:30,153 - dining_scraper_bursley - DEBUG -   Processing item: Pea and Potato Curry
+2025-10-22 23:44:31,226 - dining_scraper_bursley - DEBUG -   Processing item: Rajma
+2025-10-22 23:44:32,307 - dining_scraper_bursley - DEBUG -   Processing item: Basmati Rice
+2025-10-22 23:44:33,382 - dining_scraper_bursley - DEBUG -   Processing item: Cilantro Chutney
+2025-10-22 23:44:34,430 - dining_scraper_bursley - INFO -   Successfully scraped 4 items from station: 24 CARROTS
+2025-10-22 23:44:34,439 - dining_scraper_bursley - INFO -  Scraping station: HALAL
+2025-10-22 23:44:34,443 - dining_scraper_bursley - INFO -   Found 5 items in station
+2025-10-22 23:44:34,451 - dining_scraper_bursley - DEBUG -   Processing item: Turkey Tacos
+2025-10-22 23:44:35,524 - dining_scraper_bursley - DEBUG -   Processing item: Lemon Parsley Rice
+2025-10-22 23:44:36,605 - dining_scraper_bursley - DEBUG -   Processing item: Cucumber Relish
+2025-10-22 23:44:37,671 - dining_scraper_bursley - DEBUG -   Processing item: Grilled Vegetables
+2025-10-22 23:44:38,745 - dining_scraper_bursley - DEBUG -   Processing item: Garlic Sauce
+2025-10-22 23:44:49,499 - dining_scraper_bursley - WARNING - Nutrition panel did not appear for: Garlic Sauce
+2025-10-22 23:44:49,499 - dining_scraper_bursley - INFO -   Successfully scraped 5 items from station: HALAL
+2025-10-22 23:44:49,519 - dining_scraper_bursley - INFO -  Scraping station: PIZZITI
+2025-10-22 23:44:49,524 - dining_scraper_bursley - INFO -   Found 4 items in station
+2025-10-22 23:44:49,532 - dining_scraper_bursley - DEBUG -   Processing item: Chicken Ranch Pizza with Bacon
+2025-10-22 23:44:50,644 - dining_scraper_bursley - DEBUG -   Processing item: Garlic Cheese Bread
+2025-10-22 23:44:51,714 - dining_scraper_bursley - DEBUG -   Processing item: Pepperoni Pizza
+2025-10-22 23:44:52,812 - dining_scraper_bursley - DEBUG -   Processing item: Cheese Pizza
+2025-10-22 23:44:53,893 - dining_scraper_bursley - INFO -   Successfully scraped 4 items from station: PIZZITI
+2025-10-22 23:44:53,904 - dining_scraper_bursley - INFO -  Scraping station: WILD FIRE MAIZE
+2025-10-22 23:44:53,908 - dining_scraper_bursley - INFO -   Found 2 items in station
+2025-10-22 23:44:53,915 - dining_scraper_bursley - DEBUG -   Processing item: Tempura Chicken
+2025-10-22 23:44:54,985 - dining_scraper_bursley - DEBUG -   Processing item: Seasoned Fries
+2025-10-22 23:44:56,077 - dining_scraper_bursley - INFO -   Successfully scraped 2 items from station: WILD FIRE MAIZE
+2025-10-22 23:44:56,088 - dining_scraper_bursley - INFO -  Scraping station: TWO OCEANS
+2025-10-22 23:44:56,092 - dining_scraper_bursley - INFO -   Found 1 items in station
+2025-10-22 23:44:56,102 - dining_scraper_bursley - DEBUG -   Processing item: No Service at this Time
+2025-10-22 23:44:56,659 - dining_scraper_bursley - WARNING - No nutrition table found for: No Service at this Time
+2025-10-22 23:44:56,996 - dining_scraper_bursley - INFO -   Successfully scraped 1 items from station: TWO OCEANS
+2025-10-22 23:44:57,004 - dining_scraper_bursley - INFO -  Scraping station: DELI
+2025-10-22 23:44:57,007 - dining_scraper_bursley - INFO -   Found 1 items in station
+2025-10-22 23:44:57,016 - dining_scraper_bursley - DEBUG -   Processing item: Sandwiches Made to Order
+2025-10-22 23:44:57,561 - dining_scraper_bursley - WARNING - No nutrition table found for: Sandwiches Made to Order
+2025-10-22 23:44:57,893 - dining_scraper_bursley - INFO -   Successfully scraped 1 items from station: DELI
+2025-10-22 23:44:57,905 - dining_scraper_bursley - INFO -  Scraping station: MBAKERY
+2025-10-22 23:44:57,909 - dining_scraper_bursley - INFO -   Found 2 items in station
+2025-10-22 23:44:57,917 - dining_scraper_bursley - DEBUG -   Processing item: Blueberry Banana Cake with Coconut
+2025-10-22 23:44:59,014 - dining_scraper_bursley - DEBUG -   Processing item: Chocolate Peanut Butter Pie
+2025-10-22 23:45:00,097 - dining_scraper_bursley - INFO -   Successfully scraped 2 items from station: MBAKERY
+2025-10-22 23:45:00,097 - dining_scraper_bursley - INFO - Successfully scraped 10 stations from: Dinner
+2025-10-22 23:45:00,097 - dining_scraper_bursley - INFO - Successfully scraped 3 meal periods from Bursley
+2025-10-22 23:45:00,101 - dining_scraper_bursley - INFO - Saved menu to: /Users/alex/Documents/xcode/MichiganMealsAppFinal/MichiganMealsAppFinal/scraped_data/json/2025-10-22/bursley.json

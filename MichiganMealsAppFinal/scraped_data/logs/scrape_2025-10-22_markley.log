@@ -1,0 +1,97 @@
+2025-10-22 23:47:37,092 - dining_scraper_markley - INFO - ================================================================================
+2025-10-22 23:47:37,093 - dining_scraper_markley - INFO - Starting scrape for Markley
+2025-10-22 23:47:37,093 - dining_scraper_markley - INFO - ================================================================================
+2025-10-22 23:47:37,093 - dining_scraper_markley - INFO - Navigating to Markley: https://dining.umich.edu/menus-locations/dining-halls/markley/
+2025-10-22 23:47:40,063 - dining_scraper_markley - INFO - Found 3 meal periods
+2025-10-22 23:47:40,074 - dining_scraper_markley - INFO - Scraping meal period: Breakfast
+2025-10-22 23:47:40,640 - dining_scraper_markley - INFO - Found 3 stations in meal period
+2025-10-22 23:47:40,648 - dining_scraper_markley - INFO -  Scraping station: HOT CEREAL
+2025-10-22 23:47:40,652 - dining_scraper_markley - INFO -   Found 1 items in station
+2025-10-22 23:47:40,659 - dining_scraper_markley - DEBUG -   Processing item: Oatmeal
+2025-10-22 23:47:41,716 - dining_scraper_markley - INFO -   Successfully scraped 1 items from station: HOT CEREAL
+2025-10-22 23:47:41,726 - dining_scraper_markley - INFO -  Scraping station: TOAST
+2025-10-22 23:47:41,730 - dining_scraper_markley - INFO -   Found 6 items in station
+2025-10-22 23:47:41,740 - dining_scraper_markley - DEBUG -   Processing item: Spinach Saute
+2025-10-22 23:47:42,804 - dining_scraper_markley - DEBUG -   Processing item: Southwest Tofu Scramble
+2025-10-22 23:47:43,875 - dining_scraper_markley - DEBUG -   Processing item: O'Brien Potatoes
+2025-10-22 23:47:44,953 - dining_scraper_markley - DEBUG -   Processing item: Egg & Cheese English Muffin Sandwich
+2025-10-22 23:47:46,066 - dining_scraper_markley - DEBUG -   Processing item: Pork Sausage Patty
+2025-10-22 23:47:47,154 - dining_scraper_markley - DEBUG -   Processing item: Scrambled Eggs
+2025-10-22 23:47:48,236 - dining_scraper_markley - INFO -   Successfully scraped 6 items from station: TOAST
+2025-10-22 23:47:48,244 - dining_scraper_markley - INFO -  Scraping station: MBAKERY
+2025-10-22 23:47:48,247 - dining_scraper_markley - INFO -   Found 2 items in station
+2025-10-22 23:47:48,256 - dining_scraper_markley - DEBUG -   Processing item: Chocolate Glazed Donuts
+2025-10-22 23:47:49,378 - dining_scraper_markley - DEBUG -   Processing item: Blueberry Muffins
+2025-10-22 23:47:50,468 - dining_scraper_markley - INFO -   Successfully scraped 2 items from station: MBAKERY
+2025-10-22 23:47:50,468 - dining_scraper_markley - INFO - Successfully scraped 3 stations from: Breakfast
+2025-10-22 23:47:50,479 - dining_scraper_markley - INFO - Scraping meal period: Lunch
+2025-10-22 23:47:51,037 - dining_scraper_markley - INFO - Found 5 stations in meal period
+2025-10-22 23:47:51,045 - dining_scraper_markley - INFO -  Scraping station: SOUP
+2025-10-22 23:47:51,049 - dining_scraper_markley - INFO -   Found 1 items in station
+2025-10-22 23:47:51,056 - dining_scraper_markley - DEBUG -   Processing item: Shrimp Bisque
+2025-10-22 23:47:52,163 - dining_scraper_markley - INFO -   Successfully scraped 1 items from station: SOUP
+2025-10-22 23:47:52,172 - dining_scraper_markley - INFO -  Scraping station: SIGNATURE MAIZE
+2025-10-22 23:47:52,178 - dining_scraper_markley - INFO -   Found 6 items in station
+2025-10-22 23:47:52,186 - dining_scraper_markley - DEBUG -   Processing item: French Fries
+2025-10-22 23:47:53,271 - dining_scraper_markley - DEBUG -   Processing item: Buffalo Chicken Wings
+2025-10-22 23:47:54,354 - dining_scraper_markley - DEBUG -   Processing item: Carrots
+2025-10-22 23:47:55,421 - dining_scraper_markley - DEBUG -   Processing item: Celery Sticks
+2025-10-22 23:47:56,494 - dining_scraper_markley - DEBUG -   Processing item: Ranch Dressing
+2025-10-22 23:47:57,579 - dining_scraper_markley - DEBUG -   Processing item: Blue Cheese Dressing
+2025-10-22 23:47:58,671 - dining_scraper_markley - INFO -   Successfully scraped 6 items from station: SIGNATURE MAIZE
+2025-10-22 23:47:58,682 - dining_scraper_markley - INFO -  Scraping station: 24 CARROTS
+2025-10-22 23:47:58,686 - dining_scraper_markley - INFO -   Found 4 items in station
+2025-10-22 23:47:58,697 - dining_scraper_markley - DEBUG -   Processing item: Rajma
+2025-10-22 23:47:59,767 - dining_scraper_markley - DEBUG -   Processing item: Basmati Rice
+2025-10-22 23:48:00,815 - dining_scraper_markley - DEBUG -   Processing item: Pita Bread
+2025-10-22 23:48:01,932 - dining_scraper_markley - DEBUG -   Processing item: Roasted Butternut Squash
+2025-10-22 23:48:02,990 - dining_scraper_markley - INFO -   Successfully scraped 4 items from station: 24 CARROTS
+2025-10-22 23:48:03,000 - dining_scraper_markley - INFO -  Scraping station: HALAL
+2025-10-22 23:48:03,004 - dining_scraper_markley - INFO -   Found 4 items in station
+2025-10-22 23:48:03,014 - dining_scraper_markley - DEBUG -   Processing item: Chicken Biryani
+2025-10-22 23:48:04,100 - dining_scraper_markley - DEBUG -   Processing item: Roasted Butternut Squash
+2025-10-22 23:48:05,182 - dining_scraper_markley - DEBUG -   Processing item: Basmati Rice
+2025-10-22 23:48:06,252 - dining_scraper_markley - DEBUG -   Processing item: Tomato Cucumber Raita
+2025-10-22 23:48:07,319 - dining_scraper_markley - INFO -   Successfully scraped 4 items from station: HALAL
+2025-10-22 23:48:07,328 - dining_scraper_markley - INFO -  Scraping station: MBAKERY
+2025-10-22 23:48:07,331 - dining_scraper_markley - INFO -   Found 4 items in station
+2025-10-22 23:48:07,339 - dining_scraper_markley - DEBUG -   Processing item: Latiya
+2025-10-22 23:48:08,429 - dining_scraper_markley - DEBUG -   Processing item: Chocolate Chunk Cookies
+2025-10-22 23:48:09,558 - dining_scraper_markley - DEBUG -   Processing item: Blueberry Banana Cake with Coconut
+2025-10-22 23:48:10,661 - dining_scraper_markley - DEBUG -   Processing item: Orange Creamsicle Rice Krispy Treats
+2025-10-22 23:48:11,761 - dining_scraper_markley - INFO -   Successfully scraped 4 items from station: MBAKERY
+2025-10-22 23:48:11,761 - dining_scraper_markley - INFO - Successfully scraped 5 stations from: Lunch
+2025-10-22 23:48:11,778 - dining_scraper_markley - INFO - Scraping meal period: Dinner
+2025-10-22 23:48:12,323 - dining_scraper_markley - INFO - Found 5 stations in meal period
+2025-10-22 23:48:12,330 - dining_scraper_markley - INFO -  Scraping station: SOUP
+2025-10-22 23:48:12,333 - dining_scraper_markley - INFO -   Found 1 items in station
+2025-10-22 23:48:12,339 - dining_scraper_markley - DEBUG -   Processing item: Shrimp Bisque
+2025-10-22 23:48:13,427 - dining_scraper_markley - INFO -   Successfully scraped 1 items from station: SOUP
+2025-10-22 23:48:13,436 - dining_scraper_markley - INFO -  Scraping station: SIGNATURE MAIZE
+2025-10-22 23:48:13,440 - dining_scraper_markley - INFO -   Found 4 items in station
+2025-10-22 23:48:13,452 - dining_scraper_markley - DEBUG -   Processing item: Roasted Butternut Squash
+2025-10-22 23:48:14,514 - dining_scraper_markley - DEBUG -   Processing item: Spaetzle
+2025-10-22 23:48:15,591 - dining_scraper_markley - DEBUG -   Processing item: Grilled Pork Chops
+2025-10-22 23:48:16,669 - dining_scraper_markley - DEBUG -   Processing item: Chicken Gravy
+2025-10-22 23:48:17,750 - dining_scraper_markley - INFO -   Successfully scraped 4 items from station: SIGNATURE MAIZE
+2025-10-22 23:48:17,761 - dining_scraper_markley - INFO -  Scraping station: 24 CARROTS
+2025-10-22 23:48:17,764 - dining_scraper_markley - INFO -   Found 2 items in station
+2025-10-22 23:48:17,772 - dining_scraper_markley - DEBUG -   Processing item: Basmati Rice
+2025-10-22 23:48:18,844 - dining_scraper_markley - DEBUG -   Processing item: Tofu Vegetable Stew
+2025-10-22 23:48:19,916 - dining_scraper_markley - INFO -   Successfully scraped 2 items from station: 24 CARROTS
+2025-10-22 23:48:19,929 - dining_scraper_markley - INFO -  Scraping station: HALAL
+2025-10-22 23:48:19,933 - dining_scraper_markley - INFO -   Found 4 items in station
+2025-10-22 23:48:19,941 - dining_scraper_markley - DEBUG -   Processing item: Chicken & Beef Meatballs
+2025-10-22 23:48:21,066 - dining_scraper_markley - DEBUG -   Processing item: Marinara Sauce
+2025-10-22 23:48:22,164 - dining_scraper_markley - DEBUG -   Processing item: Grilled Vegetables
+2025-10-22 23:48:23,233 - dining_scraper_markley - DEBUG -   Processing item: Basmati Rice
+2025-10-22 23:48:24,292 - dining_scraper_markley - INFO -   Successfully scraped 4 items from station: HALAL
+2025-10-22 23:48:24,299 - dining_scraper_markley - INFO -  Scraping station: MBAKERY
+2025-10-22 23:48:24,302 - dining_scraper_markley - INFO -   Found 3 items in station
+2025-10-22 23:48:24,309 - dining_scraper_markley - DEBUG -   Processing item: Chocolate Chunk Cookies
+2025-10-22 23:48:25,417 - dining_scraper_markley - DEBUG -   Processing item: Blueberry Banana Cake with Coconut
+2025-10-22 23:48:26,529 - dining_scraper_markley - DEBUG -   Processing item: Chocolate Peanut Butter Pie
+2025-10-22 23:48:27,593 - dining_scraper_markley - INFO -   Successfully scraped 3 items from station: MBAKERY
+2025-10-22 23:48:27,593 - dining_scraper_markley - INFO - Successfully scraped 5 stations from: Dinner
+2025-10-22 23:48:27,593 - dining_scraper_markley - INFO - Successfully scraped 3 meal periods from Markley
+2025-10-22 23:48:27,595 - dining_scraper_markley - INFO - Saved menu to: /Users/alex/Documents/xcode/MichiganMealsAppFinal/MichiganMealsAppFinal/scraped_data/json/2025-10-22/markley.json

@@ -1,0 +1,12 @@
+# Michigan Dining Scraper Requirements
+# ====================================
+
+# Selenium for web scraping
+selenium>=4.15.0
+
+# PostgreSQL adapter (optional, for production)
+psycopg2-binary>=2.9.9
+
+# Note: ChromeDriver must be installed separately
+# Download from: https://chromedriver.chromium.org/
+# Or install via: brew install chromedriver (macOS)

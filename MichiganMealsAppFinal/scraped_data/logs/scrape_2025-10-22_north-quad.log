@@ -1,0 +1,114 @@
+2025-10-22 23:50:21,561 - dining_scraper_north-quad - INFO - ================================================================================
+2025-10-22 23:50:21,561 - dining_scraper_north-quad - INFO - Starting scrape for North Quad
+2025-10-22 23:50:21,561 - dining_scraper_north-quad - INFO - ================================================================================
+2025-10-22 23:50:21,561 - dining_scraper_north-quad - INFO - Navigating to North Quad: https://dining.umich.edu/menus-locations/dining-halls/north-quad/
+2025-10-22 23:50:23,259 - dining_scraper_north-quad - INFO - Found 3 meal periods
+2025-10-22 23:50:23,271 - dining_scraper_north-quad - INFO - Scraping meal period: Breakfast
+2025-10-22 23:50:23,836 - dining_scraper_north-quad - INFO - Found 3 stations in meal period
+2025-10-22 23:50:23,845 - dining_scraper_north-quad - INFO -  Scraping station: HOT CEREAL
+2025-10-22 23:50:23,849 - dining_scraper_north-quad - INFO -   Found 1 items in station
+2025-10-22 23:50:23,856 - dining_scraper_north-quad - DEBUG -   Processing item: Oatmeal
+2025-10-22 23:50:24,914 - dining_scraper_north-quad - INFO -   Successfully scraped 1 items from station: HOT CEREAL
+2025-10-22 23:50:24,923 - dining_scraper_north-quad - INFO -  Scraping station: TOAST
+2025-10-22 23:50:24,926 - dining_scraper_north-quad - INFO -   Found 6 items in station
+2025-10-22 23:50:24,934 - dining_scraper_north-quad - DEBUG -   Processing item: Sauteed Vegetables
+2025-10-22 23:50:25,992 - dining_scraper_north-quad - DEBUG -   Processing item: Scrambled Tofu w/ Spinach
+2025-10-22 23:50:27,093 - dining_scraper_north-quad - DEBUG -   Processing item: Scrambled Eggs
+2025-10-22 23:50:28,180 - dining_scraper_north-quad - DEBUG -   Processing item: Pork Sausage Links
+2025-10-22 23:50:29,296 - dining_scraper_north-quad - DEBUG -   Processing item: O'Brien Potatoes
+2025-10-22 23:50:30,383 - dining_scraper_north-quad - DEBUG -   Processing item: Egg & Cheese English Muffin Sandwich
+2025-10-22 23:50:31,506 - dining_scraper_north-quad - INFO -   Successfully scraped 6 items from station: TOAST
+2025-10-22 23:50:31,519 - dining_scraper_north-quad - INFO -  Scraping station: MBAKERY
+2025-10-22 23:50:31,522 - dining_scraper_north-quad - INFO -   Found 3 items in station
+2025-10-22 23:50:31,530 - dining_scraper_north-quad - DEBUG -   Processing item: Blueberry Muffins
+2025-10-22 23:50:32,609 - dining_scraper_north-quad - DEBUG -   Processing item: Lemon Poppyseed Muffins
+2025-10-22 23:50:33,683 - dining_scraper_north-quad - DEBUG -   Processing item: Cinnamon Donut Holes
+2025-10-22 23:50:34,869 - dining_scraper_north-quad - INFO -   Successfully scraped 3 items from station: MBAKERY
+2025-10-22 23:50:34,869 - dining_scraper_north-quad - INFO - Successfully scraped 3 stations from: Breakfast
+2025-10-22 23:50:34,880 - dining_scraper_north-quad - INFO - Scraping meal period: Lunch
+2025-10-22 23:50:35,425 - dining_scraper_north-quad - INFO - Found 7 stations in meal period
+2025-10-22 23:50:35,434 - dining_scraper_north-quad - INFO -  Scraping station: SIGNATURE BLUE
+2025-10-22 23:50:35,437 - dining_scraper_north-quad - INFO -   Found 4 items in station
+2025-10-22 23:50:35,446 - dining_scraper_north-quad - DEBUG -   Processing item: Fried Pita Chips
+2025-10-22 23:50:36,572 - dining_scraper_north-quad - DEBUG -   Processing item: Pita Wedges
+2025-10-22 23:50:37,648 - dining_scraper_north-quad - DEBUG -   Processing item: Hummus
+2025-10-22 23:50:38,729 - dining_scraper_north-quad - DEBUG -   Processing item: Farro and Butternut Squash
+2025-10-22 23:50:39,785 - dining_scraper_north-quad - INFO -   Successfully scraped 4 items from station: SIGNATURE BLUE
+2025-10-22 23:50:39,795 - dining_scraper_north-quad - INFO -  Scraping station: 24 CARROTS
+2025-10-22 23:50:39,798 - dining_scraper_north-quad - INFO -   Found 1 items in station
+2025-10-22 23:50:39,805 - dining_scraper_north-quad - DEBUG -   Processing item: Quinoa with Butternut Squash & Pecans
+2025-10-22 23:50:40,908 - dining_scraper_north-quad - INFO -   Successfully scraped 1 items from station: 24 CARROTS
+2025-10-22 23:50:40,921 - dining_scraper_north-quad - INFO -  Scraping station: HALAL
+2025-10-22 23:50:40,925 - dining_scraper_north-quad - INFO -   Found 3 items in station
+2025-10-22 23:50:40,933 - dining_scraper_north-quad - DEBUG -   Processing item: Chicken Biryani
+2025-10-22 23:50:42,019 - dining_scraper_north-quad - DEBUG -   Processing item: Mint Garnish
+2025-10-22 23:50:43,108 - dining_scraper_north-quad - DEBUG -   Processing item: Roasted Vegetables
+2025-10-22 23:50:44,177 - dining_scraper_north-quad - INFO -   Successfully scraped 3 items from station: HALAL
+2025-10-22 23:50:44,187 - dining_scraper_north-quad - INFO -  Scraping station: VITA
+2025-10-22 23:50:44,191 - dining_scraper_north-quad - INFO -   Found 6 items in station
+2025-10-22 23:50:44,219 - dining_scraper_north-quad - DEBUG -   Processing item: Cavatappi
+2025-10-22 23:50:45,293 - dining_scraper_north-quad - DEBUG -   Processing item: Marinara Sauce
+2025-10-22 23:50:46,363 - dining_scraper_north-quad - DEBUG -   Processing item: Creamy Mushroom Sauce
+2025-10-22 23:50:47,455 - dining_scraper_north-quad - DEBUG -   Processing item: Carbonara Sauce
+2025-10-22 23:50:48,589 - dining_scraper_north-quad - DEBUG -   Processing item: Garlic Bread
+2025-10-22 23:50:49,717 - dining_scraper_north-quad - DEBUG -   Processing item: Roasted Vegetables
+2025-10-22 23:50:50,773 - dining_scraper_north-quad - INFO -   Successfully scraped 6 items from station: VITA
+2025-10-22 23:50:50,787 - dining_scraper_north-quad - INFO -  Scraping station: PIZZITI
+2025-10-22 23:50:50,791 - dining_scraper_north-quad - INFO -   Found 2 items in station
+2025-10-22 23:50:50,799 - dining_scraper_north-quad - DEBUG -   Processing item: Chicken, Ranch and Bacon Flatbread Pizza
+2025-10-22 23:50:51,873 - dining_scraper_north-quad - DEBUG -   Processing item: Cheese Flatbread Pizza
+2025-10-22 23:50:52,999 - dining_scraper_north-quad - INFO -   Successfully scraped 2 items from station: PIZZITI
+2025-10-22 23:50:53,009 - dining_scraper_north-quad - INFO -  Scraping station: WILD FIRE MAIZE
+2025-10-22 23:50:53,012 - dining_scraper_north-quad - INFO -   Found 2 items in station
+2025-10-22 23:50:53,019 - dining_scraper_north-quad - DEBUG -   Processing item: Buffalo Wings
+2025-10-22 23:50:54,094 - dining_scraper_north-quad - DEBUG -   Processing item: Chicken Wings
+2025-10-22 23:50:55,184 - dining_scraper_north-quad - INFO -   Successfully scraped 2 items from station: WILD FIRE MAIZE
+2025-10-22 23:50:55,195 - dining_scraper_north-quad - INFO -  Scraping station: MBAKERY
+2025-10-22 23:50:55,199 - dining_scraper_north-quad - INFO -   Found 3 items in station
+2025-10-22 23:50:55,209 - dining_scraper_north-quad - DEBUG -   Processing item: Blueberry Banana Cake with Coconut
+2025-10-22 23:50:56,320 - dining_scraper_north-quad - DEBUG -   Processing item: Chocolate Chunk Cookies
+2025-10-22 23:50:57,511 - dining_scraper_north-quad - DEBUG -   Processing item: White Chocolate Macadamia Nut Cookies
+2025-10-22 23:50:58,602 - dining_scraper_north-quad - INFO -   Successfully scraped 3 items from station: MBAKERY
+2025-10-22 23:50:58,602 - dining_scraper_north-quad - INFO - Successfully scraped 7 stations from: Lunch
+2025-10-22 23:50:58,614 - dining_scraper_north-quad - INFO - Scraping meal period: Dinner
+2025-10-22 23:50:59,169 - dining_scraper_north-quad - INFO - Found 6 stations in meal period
+2025-10-22 23:50:59,178 - dining_scraper_north-quad - INFO -  Scraping station: SIGNATURE BLUE
+2025-10-22 23:50:59,182 - dining_scraper_north-quad - INFO -   Found 4 items in station
+2025-10-22 23:50:59,189 - dining_scraper_north-quad - DEBUG -   Processing item: Fried Pita Chips
+2025-10-22 23:51:00,305 - dining_scraper_north-quad - DEBUG -   Processing item: Pita Wedges
+2025-10-22 23:51:01,418 - dining_scraper_north-quad - DEBUG -   Processing item: Hummus
+2025-10-22 23:51:02,506 - dining_scraper_north-quad - DEBUG -   Processing item: Farro and Butternut Squash
+2025-10-22 23:51:03,577 - dining_scraper_north-quad - INFO -   Successfully scraped 4 items from station: SIGNATURE BLUE
+2025-10-22 23:51:03,586 - dining_scraper_north-quad - INFO -  Scraping station: 24 CARROTS
+2025-10-22 23:51:03,593 - dining_scraper_north-quad - INFO -   Found 3 items in station
+2025-10-22 23:51:03,601 - dining_scraper_north-quad - DEBUG -   Processing item: Rajma
+2025-10-22 23:51:04,671 - dining_scraper_north-quad - DEBUG -   Processing item: Pea and Potato Curry
+2025-10-22 23:51:05,750 - dining_scraper_north-quad - DEBUG -   Processing item: Basmati Rice
+2025-10-22 23:51:06,781 - dining_scraper_north-quad - INFO -   Successfully scraped 3 items from station: 24 CARROTS
+2025-10-22 23:51:06,789 - dining_scraper_north-quad - INFO -  Scraping station: HALAL
+2025-10-22 23:51:06,796 - dining_scraper_north-quad - INFO -   Found 2 items in station
+2025-10-22 23:51:06,803 - dining_scraper_north-quad - DEBUG -   Processing item: Huli Huli Chicken
+2025-10-22 23:51:07,878 - dining_scraper_north-quad - DEBUG -   Processing item: Citrus Salad
+2025-10-22 23:51:08,969 - dining_scraper_north-quad - INFO -   Successfully scraped 2 items from station: HALAL
+2025-10-22 23:51:08,979 - dining_scraper_north-quad - INFO -  Scraping station: VITA
+2025-10-22 23:51:08,983 - dining_scraper_north-quad - INFO -   Found 5 items in station
+2025-10-22 23:51:08,995 - dining_scraper_north-quad - DEBUG -   Processing item: Cavatappi
+2025-10-22 23:51:10,066 - dining_scraper_north-quad - DEBUG -   Processing item: Marinara Sauce
+2025-10-22 23:51:11,145 - dining_scraper_north-quad - DEBUG -   Processing item: Creamy Mushroom Sauce
+2025-10-22 23:51:12,237 - dining_scraper_north-quad - DEBUG -   Processing item: Carbonara Sauce
+2025-10-22 23:51:13,332 - dining_scraper_north-quad - DEBUG -   Processing item: Roasted Vegetables
+2025-10-22 23:51:14,387 - dining_scraper_north-quad - INFO -   Successfully scraped 5 items from station: VITA
+2025-10-22 23:51:14,399 - dining_scraper_north-quad - INFO -  Scraping station: PIZZITI
+2025-10-22 23:51:14,403 - dining_scraper_north-quad - INFO -   Found 2 items in station
+2025-10-22 23:51:14,411 - dining_scraper_north-quad - DEBUG -   Processing item: Chicken, Ranch and Bacon Flatbread Pizza
+2025-10-22 23:51:15,523 - dining_scraper_north-quad - DEBUG -   Processing item: Cheese Flatbread Pizza
+2025-10-22 23:51:16,602 - dining_scraper_north-quad - INFO -   Successfully scraped 2 items from station: PIZZITI
+2025-10-22 23:51:16,611 - dining_scraper_north-quad - INFO -  Scraping station: MBAKERY
+2025-10-22 23:51:16,615 - dining_scraper_north-quad - INFO -   Found 3 items in station
+2025-10-22 23:51:16,622 - dining_scraper_north-quad - DEBUG -   Processing item: Orange Creamsicle Rice Krispy Treats
+2025-10-22 23:51:17,740 - dining_scraper_north-quad - DEBUG -   Processing item: Blueberry Banana Cake with Coconut
+2025-10-22 23:51:18,813 - dining_scraper_north-quad - DEBUG -   Processing item: Chocolate Chunk Cookies
+2025-10-22 23:51:19,915 - dining_scraper_north-quad - INFO -   Successfully scraped 3 items from station: MBAKERY
+2025-10-22 23:51:19,915 - dining_scraper_north-quad - INFO - Successfully scraped 6 stations from: Dinner
+2025-10-22 23:51:19,915 - dining_scraper_north-quad - INFO - Successfully scraped 3 meal periods from North Quad
+2025-10-22 23:51:19,917 - dining_scraper_north-quad - INFO - Saved menu to: /Users/alex/Documents/xcode/MichiganMealsAppFinal/MichiganMealsAppFinal/scraped_data/json/2025-10-22/north-quad.json

@@ -1,0 +1,106 @@
+2025-10-22 23:54:21,113 - dining_scraper_twigs-at-oxford - INFO - ================================================================================
+2025-10-22 23:54:21,113 - dining_scraper_twigs-at-oxford - INFO - Starting scrape for Twigs at Oxford
+2025-10-22 23:54:21,114 - dining_scraper_twigs-at-oxford - INFO - ================================================================================
+2025-10-22 23:54:21,114 - dining_scraper_twigs-at-oxford - INFO - Navigating to Twigs at Oxford: https://dining.umich.edu/menus-locations/dining-halls/twigs-at-oxford/
+2025-10-22 23:54:22,586 - dining_scraper_twigs-at-oxford - INFO - Found 3 meal periods
+2025-10-22 23:54:22,596 - dining_scraper_twigs-at-oxford - INFO - Scraping meal period: Breakfast
+2025-10-22 23:54:23,143 - dining_scraper_twigs-at-oxford - INFO - Found 3 stations in meal period
+2025-10-22 23:54:23,150 - dining_scraper_twigs-at-oxford - INFO -  Scraping station: HOT CEREAL
+2025-10-22 23:54:23,153 - dining_scraper_twigs-at-oxford - INFO -   Found 1 items in station
+2025-10-22 23:54:23,160 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Oatmeal
+2025-10-22 23:54:24,220 - dining_scraper_twigs-at-oxford - INFO -   Successfully scraped 1 items from station: HOT CEREAL
+2025-10-22 23:54:24,229 - dining_scraper_twigs-at-oxford - INFO -  Scraping station: TOAST
+2025-10-22 23:54:24,232 - dining_scraper_twigs-at-oxford - INFO -   Found 7 items in station
+2025-10-22 23:54:24,241 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Scrambled Eggs
+2025-10-22 23:54:25,308 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: O'Brien Potatoes
+2025-10-22 23:54:26,381 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Spinach Saute
+2025-10-22 23:54:27,480 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Southwest Tofu Scramble
+2025-10-22 23:54:28,561 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Texas French Toast
+2025-10-22 23:54:29,649 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Halal Chicken Sausage Links
+2025-10-22 23:54:30,738 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Egg and Cheese Croissant
+2025-10-22 23:54:31,841 - dining_scraper_twigs-at-oxford - INFO -   Successfully scraped 7 items from station: TOAST
+2025-10-22 23:54:31,851 - dining_scraper_twigs-at-oxford - INFO -  Scraping station: MBAKERY
+2025-10-22 23:54:31,857 - dining_scraper_twigs-at-oxford - INFO -   Found 3 items in station
+2025-10-22 23:54:31,865 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Blueberry Muffins
+2025-10-22 23:54:32,957 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Lemon Poppyseed Muffins
+2025-10-22 23:54:34,045 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Glazed Sour Cream Donut Holes
+2025-10-22 23:54:35,178 - dining_scraper_twigs-at-oxford - INFO -   Successfully scraped 3 items from station: MBAKERY
+2025-10-22 23:54:35,179 - dining_scraper_twigs-at-oxford - INFO - Successfully scraped 3 stations from: Breakfast
+2025-10-22 23:54:35,188 - dining_scraper_twigs-at-oxford - INFO - Scraping meal period: Lunch
+2025-10-22 23:54:35,733 - dining_scraper_twigs-at-oxford - INFO - Found 5 stations in meal period
+2025-10-22 23:54:35,740 - dining_scraper_twigs-at-oxford - INFO -  Scraping station: SOUP
+2025-10-22 23:54:35,744 - dining_scraper_twigs-at-oxford - INFO -   Found 1 items in station
+2025-10-22 23:54:35,752 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Authentic Minestrone
+2025-10-22 23:54:36,793 - dining_scraper_twigs-at-oxford - INFO -   Successfully scraped 1 items from station: SOUP
+2025-10-22 23:54:36,802 - dining_scraper_twigs-at-oxford - INFO -  Scraping station: SIGNATURE MAIZE
+2025-10-22 23:54:36,808 - dining_scraper_twigs-at-oxford - INFO -   Found 2 items in station
+2025-10-22 23:54:36,815 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Sauteed Mixed Peppers
+2025-10-22 23:54:37,887 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Italian Sausage on White Bun
+2025-10-22 23:54:38,973 - dining_scraper_twigs-at-oxford - INFO -   Successfully scraped 2 items from station: SIGNATURE MAIZE
+2025-10-22 23:54:38,985 - dining_scraper_twigs-at-oxford - INFO -  Scraping station: HALAL
+2025-10-22 23:54:38,989 - dining_scraper_twigs-at-oxford - INFO -   Found 6 items in station
+2025-10-22 23:54:38,996 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Yellow Rice
+2025-10-22 23:54:49,813 - dining_scraper_twigs-at-oxford - WARNING - Nutrition panel did not appear for: Yellow Rice
+2025-10-22 23:54:49,834 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Frijoles de la Olla
+2025-10-22 23:54:50,919 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Vegan Chili Cornbread Pie
+2025-10-22 23:55:01,709 - dining_scraper_twigs-at-oxford - WARNING - Nutrition panel did not appear for: Vegan Chili Cornbread Pie
+2025-10-22 23:55:01,729 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Taco Lentils
+2025-10-22 23:55:02,812 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Chipotle Lime Cauliflower Florets
+2025-10-22 23:55:03,862 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Taco Beef
+2025-10-22 23:55:04,966 - dining_scraper_twigs-at-oxford - INFO -   Successfully scraped 6 items from station: HALAL
+2025-10-22 23:55:04,976 - dining_scraper_twigs-at-oxford - INFO -  Scraping station: WILD FIRE MAIZE
+2025-10-22 23:55:04,979 - dining_scraper_twigs-at-oxford - INFO -   Found 5 items in station
+2025-10-22 23:55:04,987 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: French Fries
+2025-10-22 23:55:06,097 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Black Bean Burger w/ White Bun
+2025-10-22 23:55:07,216 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Beef & Mushroom Blend Burger w/ Cheddar
+2025-10-22 23:55:08,331 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Beef and Mushroom Blended Burger
+2025-10-22 23:55:09,449 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Turkey Burger on White Bun
+2025-10-22 23:55:10,501 - dining_scraper_twigs-at-oxford - INFO -   Successfully scraped 5 items from station: WILD FIRE MAIZE
+2025-10-22 23:55:10,513 - dining_scraper_twigs-at-oxford - INFO -  Scraping station: MBAKERY
+2025-10-22 23:55:10,517 - dining_scraper_twigs-at-oxford - INFO -   Found 4 items in station
+2025-10-22 23:55:10,527 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Pistachio Cookie Bars
+2025-10-22 23:55:11,655 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Cookies and Cream Brownie
+2025-10-22 23:55:12,750 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Blueberry Banana Cake with Coconut
+2025-10-22 23:55:13,868 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Orange Creamsicle Rice Krispy Treats
+2025-10-22 23:55:14,982 - dining_scraper_twigs-at-oxford - INFO -   Successfully scraped 4 items from station: MBAKERY
+2025-10-22 23:55:14,982 - dining_scraper_twigs-at-oxford - INFO - Successfully scraped 5 stations from: Lunch
+2025-10-22 23:55:14,993 - dining_scraper_twigs-at-oxford - INFO - Scraping meal period: Dinner
+2025-10-22 23:55:15,558 - dining_scraper_twigs-at-oxford - INFO - Found 5 stations in meal period
+2025-10-22 23:55:15,565 - dining_scraper_twigs-at-oxford - INFO -  Scraping station: SOUP
+2025-10-22 23:55:15,568 - dining_scraper_twigs-at-oxford - INFO -   Found 1 items in station
+2025-10-22 23:55:15,574 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Authentic Minestrone
+2025-10-22 23:55:16,653 - dining_scraper_twigs-at-oxford - INFO -   Successfully scraped 1 items from station: SOUP
+2025-10-22 23:55:16,666 - dining_scraper_twigs-at-oxford - INFO -  Scraping station: SIGNATURE MAIZE
+2025-10-22 23:55:16,670 - dining_scraper_twigs-at-oxford - INFO -   Found 7 items in station
+2025-10-22 23:55:16,681 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Pea and Potato Curry
+2025-10-22 23:55:17,774 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Rajma
+2025-10-22 23:55:18,825 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Cilantro Chutney
+2025-10-22 23:55:19,891 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Spaetzle
+2025-10-22 23:55:21,007 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: German Sauerkraut
+2025-10-22 23:55:22,084 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Beef Mushroom Gravy
+2025-10-22 23:55:23,170 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Breaded Pork Chops
+2025-10-22 23:55:24,275 - dining_scraper_twigs-at-oxford - INFO -   Successfully scraped 7 items from station: SIGNATURE MAIZE
+2025-10-22 23:55:24,284 - dining_scraper_twigs-at-oxford - INFO -  Scraping station: HALAL
+2025-10-22 23:55:24,287 - dining_scraper_twigs-at-oxford - INFO -   Found 5 items in station
+2025-10-22 23:55:24,294 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Basmati Rice
+2025-10-22 23:55:25,379 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Roasted Broccoli
+2025-10-22 23:55:26,516 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Sliced Red Onions
+2025-10-22 23:55:27,611 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Cilantro
+2025-10-22 23:55:28,675 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Goan Prawn Coconut Curry
+2025-10-22 23:55:29,780 - dining_scraper_twigs-at-oxford - INFO -   Successfully scraped 5 items from station: HALAL
+2025-10-22 23:55:29,790 - dining_scraper_twigs-at-oxford - INFO -  Scraping station: WILD FIRE MAIZE
+2025-10-22 23:55:29,794 - dining_scraper_twigs-at-oxford - INFO -   Found 5 items in station
+2025-10-22 23:55:29,807 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: French Fries
+2025-10-22 23:55:30,865 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Turkey Burger on White Bun
+2025-10-22 23:55:31,963 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Beef and Mushroom Blended Burger
+2025-10-22 23:55:33,084 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Beef & Mushroom Blend Burger w/ Cheddar
+2025-10-22 23:55:34,167 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Black Bean Burger w/ White Bun
+2025-10-22 23:55:35,314 - dining_scraper_twigs-at-oxford - INFO -   Successfully scraped 5 items from station: WILD FIRE MAIZE
+2025-10-22 23:55:35,322 - dining_scraper_twigs-at-oxford - INFO -  Scraping station: MBAKERY
+2025-10-22 23:55:35,326 - dining_scraper_twigs-at-oxford - INFO -   Found 2 items in station
+2025-10-22 23:55:35,336 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Blueberry Banana Cake with Coconut
+2025-10-22 23:55:36,394 - dining_scraper_twigs-at-oxford - DEBUG -   Processing item: Chocolate Peanut Butter Pie
+2025-10-22 23:55:37,499 - dining_scraper_twigs-at-oxford - INFO -   Successfully scraped 2 items from station: MBAKERY
+2025-10-22 23:55:37,499 - dining_scraper_twigs-at-oxford - INFO - Successfully scraped 5 stations from: Dinner
+2025-10-22 23:55:37,499 - dining_scraper_twigs-at-oxford - INFO - Successfully scraped 3 meal periods from Twigs at Oxford
+2025-10-22 23:55:37,501 - dining_scraper_twigs-at-oxford - INFO - Saved menu to: /Users/alex/Documents/xcode/MichiganMealsAppFinal/MichiganMealsAppFinal/scraped_data/json/2025-10-22/twigs-at-oxford.json

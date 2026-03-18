@@ -1,0 +1,141 @@
+2025-10-22 23:48:29,601 - dining_scraper_mosher-jordan - INFO - ================================================================================
+2025-10-22 23:48:29,601 - dining_scraper_mosher-jordan - INFO - Starting scrape for Mosher Jordan
+2025-10-22 23:48:29,602 - dining_scraper_mosher-jordan - INFO - ================================================================================
+2025-10-22 23:48:29,602 - dining_scraper_mosher-jordan - INFO - Navigating to Mosher Jordan: https://dining.umich.edu/menus-locations/dining-halls/mosher-jordan/
+2025-10-22 23:48:31,086 - dining_scraper_mosher-jordan - INFO - Found 3 meal periods
+2025-10-22 23:48:31,097 - dining_scraper_mosher-jordan - INFO - Scraping meal period: Breakfast
+2025-10-22 23:48:31,668 - dining_scraper_mosher-jordan - INFO - Found 3 stations in meal period
+2025-10-22 23:48:31,677 - dining_scraper_mosher-jordan - INFO -  Scraping station: HOT CEREAL
+2025-10-22 23:48:31,680 - dining_scraper_mosher-jordan - INFO -   Found 1 items in station
+2025-10-22 23:48:31,688 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Oatmeal
+2025-10-22 23:48:32,753 - dining_scraper_mosher-jordan - INFO -   Successfully scraped 1 items from station: HOT CEREAL
+2025-10-22 23:48:32,762 - dining_scraper_mosher-jordan - INFO -  Scraping station: TOAST
+2025-10-22 23:48:32,765 - dining_scraper_mosher-jordan - INFO -   Found 6 items in station
+2025-10-22 23:48:32,773 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Sauteed Swiss Chard
+2025-10-22 23:48:33,811 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Southwest Tofu Scramble
+2025-10-22 23:48:34,896 - dining_scraper_mosher-jordan - DEBUG -   Processing item: O'Brien Potatoes
+2025-10-22 23:48:36,010 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Scrambled Eggs
+2025-10-22 23:48:37,097 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Halal Chicken Sausage Links
+2025-10-22 23:48:38,169 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Texas French Toast
+2025-10-22 23:48:39,389 - dining_scraper_mosher-jordan - INFO -   Successfully scraped 6 items from station: TOAST
+2025-10-22 23:48:39,402 - dining_scraper_mosher-jordan - INFO -  Scraping station: MBAKERY
+2025-10-22 23:48:39,406 - dining_scraper_mosher-jordan - INFO -   Found 3 items in station
+2025-10-22 23:48:39,413 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Cappuccino Chocolate Chip Muffins
+2025-10-22 23:48:50,231 - dining_scraper_mosher-jordan - WARNING - Nutrition panel did not appear for: Cappuccino Chocolate Chip Muffins
+2025-10-22 23:48:50,252 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Apple Cinnamon Muffins
+2025-10-22 23:49:01,078 - dining_scraper_mosher-jordan - WARNING - Nutrition panel did not appear for: Apple Cinnamon Muffins
+2025-10-22 23:49:01,099 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Assorted Mini Scones
+2025-10-22 23:49:02,216 - dining_scraper_mosher-jordan - INFO -   Successfully scraped 3 items from station: MBAKERY
+2025-10-22 23:49:02,216 - dining_scraper_mosher-jordan - INFO - Successfully scraped 3 stations from: Breakfast
+2025-10-22 23:49:02,231 - dining_scraper_mosher-jordan - INFO - Scraping meal period: Lunch
+2025-10-22 23:49:02,794 - dining_scraper_mosher-jordan - INFO - Found 8 stations in meal period
+2025-10-22 23:49:02,802 - dining_scraper_mosher-jordan - INFO -  Scraping station: SOUP
+2025-10-22 23:49:02,806 - dining_scraper_mosher-jordan - INFO -   Found 2 items in station
+2025-10-22 23:49:02,813 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Hearty Beef Soup
+2025-10-22 23:49:03,898 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Vegetable Noodle Soup
+2025-10-22 23:49:05,006 - dining_scraper_mosher-jordan - INFO -   Successfully scraped 2 items from station: SOUP
+2025-10-22 23:49:05,015 - dining_scraper_mosher-jordan - INFO -  Scraping station: SIGNATURE MAIZE
+2025-10-22 23:49:05,019 - dining_scraper_mosher-jordan - INFO -   Found 3 items in station
+2025-10-22 23:49:05,026 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Italian Sausage on White Bun
+2025-10-22 23:49:06,141 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Sauteed Mixed Peppers & Onions
+2025-10-22 23:49:07,234 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Cucumber & Tomato Salad
+2025-10-22 23:49:08,318 - dining_scraper_mosher-jordan - INFO -   Successfully scraped 3 items from station: SIGNATURE MAIZE
+2025-10-22 23:49:08,327 - dining_scraper_mosher-jordan - INFO -  Scraping station: WORLD PALATE MAIZE
+2025-10-22 23:49:08,334 - dining_scraper_mosher-jordan - INFO -   Found 3 items in station
+2025-10-22 23:49:08,341 - dining_scraper_mosher-jordan - DEBUG -   Processing item: General Tso Chicken
+2025-10-22 23:49:09,466 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Medium Grain Rice
+2025-10-22 23:49:10,538 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Chopped Green Onions
+2025-10-22 23:49:11,606 - dining_scraper_mosher-jordan - INFO -   Successfully scraped 3 items from station: WORLD PALATE MAIZE
+2025-10-22 23:49:11,619 - dining_scraper_mosher-jordan - INFO -  Scraping station: 24 CARROTS
+2025-10-22 23:49:11,624 - dining_scraper_mosher-jordan - INFO -   Found 4 items in station
+2025-10-22 23:49:11,632 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Vegan Chili Cornbread Pie
+2025-10-22 23:49:12,694 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Chipotle Lime Cauliflower Florets
+2025-10-22 23:49:13,778 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Fresh Pico De Gallo
+2025-10-22 23:49:14,850 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Pickled Jalapeno Peppers
+2025-10-22 23:49:15,918 - dining_scraper_mosher-jordan - INFO -   Successfully scraped 4 items from station: 24 CARROTS
+2025-10-22 23:49:15,932 - dining_scraper_mosher-jordan - INFO -  Scraping station: HALAL
+2025-10-22 23:49:15,936 - dining_scraper_mosher-jordan - INFO -   Found 4 items in station
+2025-10-22 23:49:15,943 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Taco Beef
+2025-10-22 23:49:17,014 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Taco Shells
+2025-10-22 23:49:18,103 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Spicy Pinto Beans
+2025-10-22 23:49:19,180 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Yellow Rice
+2025-10-22 23:49:20,265 - dining_scraper_mosher-jordan - INFO -   Successfully scraped 4 items from station: HALAL
+2025-10-22 23:49:20,277 - dining_scraper_mosher-jordan - INFO -  Scraping station: DELI
+2025-10-22 23:49:20,281 - dining_scraper_mosher-jordan - INFO -   Found 1 items in station
+2025-10-22 23:49:20,291 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Sandwiches Made to Order
+2025-10-22 23:49:20,836 - dining_scraper_mosher-jordan - WARNING - No nutrition table found for: Sandwiches Made to Order
+2025-10-22 23:49:21,169 - dining_scraper_mosher-jordan - INFO -   Successfully scraped 1 items from station: DELI
+2025-10-22 23:49:21,178 - dining_scraper_mosher-jordan - INFO -  Scraping station: KINGS HAWAIIAN GRILL
+2025-10-22 23:49:21,182 - dining_scraper_mosher-jordan - INFO -   Found 5 items in station
+2025-10-22 23:49:21,192 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Beef and Mushroom Blended Burger
+2025-10-22 23:49:22,299 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Beef & Mushroom Blended Burger w/ Cheese
+2025-10-22 23:49:23,397 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Turkey Burger on King's Hawaiian Bun
+2025-10-22 23:49:24,527 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Cauliflower Quinoa Burger
+2025-10-22 23:49:35,323 - dining_scraper_mosher-jordan - WARNING - Nutrition panel did not appear for: Cauliflower Quinoa Burger
+2025-10-22 23:49:35,340 - dining_scraper_mosher-jordan - DEBUG -   Processing item: French Fries
+2025-10-22 23:49:46,152 - dining_scraper_mosher-jordan - WARNING - Nutrition panel did not appear for: French Fries
+2025-10-22 23:49:46,153 - dining_scraper_mosher-jordan - INFO -   Successfully scraped 5 items from station: KINGS HAWAIIAN GRILL
+2025-10-22 23:49:46,169 - dining_scraper_mosher-jordan - INFO -  Scraping station: MBAKERY
+2025-10-22 23:49:46,175 - dining_scraper_mosher-jordan - INFO -   Found 4 items in station
+2025-10-22 23:49:46,185 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Orange Creamsicle Rice Krispy Treats
+2025-10-22 23:49:47,302 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Blueberry Banana Cake with Coconut
+2025-10-22 23:49:48,424 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Maize and Blue Cookies
+2025-10-22 23:49:49,543 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Vegan Raspberry Hazelnut Linzer Cookies
+2025-10-22 23:49:50,647 - dining_scraper_mosher-jordan - INFO -   Successfully scraped 4 items from station: MBAKERY
+2025-10-22 23:49:50,647 - dining_scraper_mosher-jordan - INFO - Successfully scraped 8 stations from: Lunch
+2025-10-22 23:49:50,663 - dining_scraper_mosher-jordan - INFO - Scraping meal period: Dinner
+2025-10-22 23:49:51,216 - dining_scraper_mosher-jordan - INFO - Found 8 stations in meal period
+2025-10-22 23:49:51,223 - dining_scraper_mosher-jordan - INFO -  Scraping station: SOUP
+2025-10-22 23:49:51,227 - dining_scraper_mosher-jordan - INFO -   Found 2 items in station
+2025-10-22 23:49:51,233 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Hearty Beef Soup
+2025-10-22 23:49:52,320 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Vegetable Noodle Soup
+2025-10-22 23:49:53,418 - dining_scraper_mosher-jordan - INFO -   Successfully scraped 2 items from station: SOUP
+2025-10-22 23:49:53,427 - dining_scraper_mosher-jordan - INFO -  Scraping station: SIGNATURE MAIZE
+2025-10-22 23:49:53,430 - dining_scraper_mosher-jordan - INFO -   Found 2 items in station
+2025-10-22 23:49:53,437 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Homemade Sweet Chili Chicken Wings
+2025-10-22 23:49:54,534 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Pacific Rim Pasta Salad
+2025-10-22 23:49:55,628 - dining_scraper_mosher-jordan - INFO -   Successfully scraped 2 items from station: SIGNATURE MAIZE
+2025-10-22 23:49:55,644 - dining_scraper_mosher-jordan - INFO -  Scraping station: WORLD PALATE MAIZE
+2025-10-22 23:49:55,647 - dining_scraper_mosher-jordan - INFO -   Found 4 items in station
+2025-10-22 23:49:55,654 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Grilled Pork Chops
+2025-10-22 23:49:56,748 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Spaetzle
+2025-10-22 23:49:57,815 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Roasted Brussels Sprouts
+2025-10-22 23:49:58,899 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Mushroom Gravy
+2025-10-22 23:49:59,981 - dining_scraper_mosher-jordan - INFO -   Successfully scraped 4 items from station: WORLD PALATE MAIZE
+2025-10-22 23:49:59,993 - dining_scraper_mosher-jordan - INFO -  Scraping station: 24 CARROTS
+2025-10-22 23:49:59,996 - dining_scraper_mosher-jordan - INFO -   Found 4 items in station
+2025-10-22 23:50:00,004 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Pea and Potato Curry
+2025-10-22 23:50:01,098 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Rajma
+2025-10-22 23:50:02,191 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Basmati Rice
+2025-10-22 23:50:03,266 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Cilantro Chutney
+2025-10-22 23:50:04,388 - dining_scraper_mosher-jordan - INFO -   Successfully scraped 4 items from station: 24 CARROTS
+2025-10-22 23:50:04,396 - dining_scraper_mosher-jordan - INFO -  Scraping station: HALAL
+2025-10-22 23:50:04,400 - dining_scraper_mosher-jordan - INFO -   Found 4 items in station
+2025-10-22 23:50:04,410 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Indian Tandoori Style Chicken
+2025-10-22 23:50:05,507 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Rajma
+2025-10-22 23:50:06,564 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Basmati Rice
+2025-10-22 23:50:07,628 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Cilantro Chutney
+2025-10-22 23:50:08,702 - dining_scraper_mosher-jordan - INFO -   Successfully scraped 4 items from station: HALAL
+2025-10-22 23:50:08,711 - dining_scraper_mosher-jordan - INFO -  Scraping station: DELI
+2025-10-22 23:50:08,715 - dining_scraper_mosher-jordan - INFO -   Found 1 items in station
+2025-10-22 23:50:08,723 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Sandwiches Made to Order
+2025-10-22 23:50:09,274 - dining_scraper_mosher-jordan - WARNING - No nutrition table found for: Sandwiches Made to Order
+2025-10-22 23:50:09,602 - dining_scraper_mosher-jordan - INFO -   Successfully scraped 1 items from station: DELI
+2025-10-22 23:50:09,611 - dining_scraper_mosher-jordan - INFO -  Scraping station: KINGS HAWAIIAN GRILL
+2025-10-22 23:50:09,615 - dining_scraper_mosher-jordan - INFO -   Found 5 items in station
+2025-10-22 23:50:09,626 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Beef and Mushroom Blended Burger
+2025-10-22 23:50:10,732 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Beef & Mushroom Blended Burger w/ Cheese
+2025-10-22 23:50:11,842 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Turkey Burger on King's Hawaiian Bun
+2025-10-22 23:50:12,926 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Cauliflower Quinoa Burger
+2025-10-22 23:50:14,041 - dining_scraper_mosher-jordan - DEBUG -   Processing item: French Fries
+2025-10-22 23:50:15,095 - dining_scraper_mosher-jordan - INFO -   Successfully scraped 5 items from station: KINGS HAWAIIAN GRILL
+2025-10-22 23:50:15,104 - dining_scraper_mosher-jordan - INFO -  Scraping station: MBAKERY
+2025-10-22 23:50:15,108 - dining_scraper_mosher-jordan - INFO -   Found 4 items in station
+2025-10-22 23:50:15,121 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Latiya
+2025-10-22 23:50:16,229 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Orange Creamsicle Rice Krispy Treats
+2025-10-22 23:50:17,337 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Blueberry Banana Cake with Coconut
+2025-10-22 23:50:18,446 - dining_scraper_mosher-jordan - DEBUG -   Processing item: Chocolate Peanut Butter Pie
+2025-10-22 23:50:19,552 - dining_scraper_mosher-jordan - INFO -   Successfully scraped 4 items from station: MBAKERY
+2025-10-22 23:50:19,552 - dining_scraper_mosher-jordan - INFO - Successfully scraped 8 stations from: Dinner
+2025-10-22 23:50:19,552 - dining_scraper_mosher-jordan - INFO - Successfully scraped 3 meal periods from Mosher Jordan
+2025-10-22 23:50:19,555 - dining_scraper_mosher-jordan - INFO - Saved menu to: /Users/alex/Documents/xcode/MichiganMealsAppFinal/MichiganMealsAppFinal/scraped_data/json/2025-10-22/mosher-jordan.json
