@@ -63,34 +63,56 @@ struct ContentView: View {
 
 struct MealView: View {
     @StateObject private var dataManager = DiningDataManager()
+    @State private var mDiningHall: DiningHall? = nil
     var body: some View {
         NavigationView {
             ZStack {
                 Color.backgroundColor.ignoresSafeArea()
-                
                 VStack(spacing: 20) {
                     Text("Meal")
                         .font(.largeTitle)
                         .fontWeight(.bold)
                         .foregroundColor(.michiganBlue)
-                    
-                    Text("Plan and track your meals")
-                        .font(.body)
-                        .foregroundColor(.michiganBlue.opacity(0.7))
-                        .multilineTextAlignment(.center)
-                    
-                    // Placeholder content
-                    RoundedRectangle(cornerRadius: 12)
-                        .fill(Color.maizeYellow.opacity(0.2))
-                        .frame(height: 200)
-                        .overlay(
-                            Text("Meal content will go here based on your screenshots")
-                                .foregroundColor(.michiganBlue)
-                                .font(.headline)
-                                .multilineTextAlignment(.center)
-                        )
-                    Text("\(dataManager.diningData)")
-                    
+                    if(mDiningHall == nil){
+                        Text("Plan and track your meals")
+                            .font(.body)
+                            .foregroundColor(.michiganBlue.opacity(0.7))
+                            .multilineTextAlignment(.center)
+                        Text("Select a Dining Hall")
+                            .font(.title2)
+                            .fontWeight(.bold)
+                            .foregroundColor(.michiganBlue)
+                        if !dataManager.getRecommendedItems().isEmpty {
+                            ForEach(dataManager.getDiningHalls()) { diningHall in
+                                RoundedRectangle(cornerRadius: 12)
+                                    .fill(Color.maizeYellow.opacity(0.2))
+                                    .frame(height: 60)
+                                    .overlay(
+                                        Text(diningHall.name)
+                                            .foregroundColor(.michiganBlue)
+                                            .font(.headline)
+                                            .multilineTextAlignment(.center)
+                                    )
+                                    .onTapGesture {
+                                        mDiningHall = diningHall
+                                    }
+                            }
+                        }
+                    }else {
+                        Text("Dining Hall : \(mDiningHall!.name)")
+                        RoundedRectangle(cornerRadius: 12)
+                            .fill(Color.red.opacity(0.2))
+                            .frame(height: 60)
+                            .overlay(
+                                Text("Back")
+                                    .foregroundColor(.michiganBlue)
+                                    .font(.headline)
+                                    .multilineTextAlignment(.center)
+                            )
+                            .onTapGesture {
+                                mDiningHall = nil
+                            }
+                    }
                     Spacer()
                 }
                 .padding()

@@ -23,7 +23,7 @@ struct ExploreView: View {
         NavigationView {
             ScrollViewReader { proxy in
                 ScrollView {
-                    LazyVStack(spacing: 0, pinnedViews: [.sectionHeaders]) {
+                    LazyVStack(spacing: 0) {
                         // Header Section
                         VStack(spacing: 16) {
                             // Delivery Info Header

@@ -161,7 +161,23 @@ extension DiningDataManager {
                   "gluten_free": false,
                   "allergens": ["gluten", "dairy"]
                 }
-              }
+              },
+                {
+                  "id": "food069",
+                  "name": "Margherita Pizzas",
+                  "dining_hall": "Central Food Court",
+                  "serving_area": "Pizza Counter",
+                  "community_rating": 4.2,
+                  "user_rating": 5.0,
+                  "total_reviews": 312,
+                  "image_url": "https://example.com/images/margherita_pizza.jpg",
+                  "dietary_info": {
+                    "vegetarian": true,
+                    "vegan": false,
+                    "gluten_free": false,
+                    "allergens": ["gluten", "dairy"]
+                  }
+                },
             ]
           },
           "dining_halls": [
